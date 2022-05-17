@@ -47,9 +47,16 @@
     },
     {
       "date": "2022-05-16",
-      "sha512sum": "6005476BCB3D276CB6C07B30DFB6BA4FB679636C4166E5328ABE62701FF87846653E9E9E682425A5502CBD03F281983C3FB0D224A15CE0B7EAF570D851D04B32",
+      "sha512sum": "69ABDF754591BBBF81442AFD4E8A4CF262DE08BA4E4DCFF847D6C9FF0C67A801147BDAB58A6887CECC89F1F29765477DD0F98BC3C79B59FB848440EE63F439FA",
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-16",
+      "sha512sum": "AE53D20B56B8B3CC193B199BFC5BAF7AE4D35634B5EAC10D781D1008D7EEC3A7D273F75FBAC921CFD61E0C3968F83638A65A99B13C2CEAA6D4DDC778D103C812",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.4.jar",
       "requires": "^1.0.0"
     }
   ]
