@@ -1,24 +1,11 @@
 [{
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
-  "name": "Vital Alchemy",
-  "description": "",
-  "id": "vitalalchemy-plugin",
-  "releases": [{
-    "date": "2022-05-15",
-    "sha512sum": "9374C5C9078D51AF4C83290B3CB7132536BCC86F0911600E7C5EEA1CFEDB59A65DB0D07C21A986B726E79682A7EE9E3E13821B00BD1D701D346D66674E48697E",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-alchemy-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/qzkwwtCPkY",
-  "provider": "Vitalflea",
   "name": "Vital Fighter",
   "description": "",
   "id": "vitalfighter-plugin",
   "releases": [{
-    "date": "2022-05-15",
+    "date": "2022-05-16",
     "sha512sum": "F7FF64FE2B31BF595D789A3E77A49EDBE7E63089CA56BFAB41B6C98D83DBFF9C8C950CBB8CDCD8EADC0C4BC256DAC1B34FCFEEA316950B5C13E63B5B3EAA0747",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fighter-0.0.1.jar",
@@ -31,7 +18,7 @@
   "description": "",
   "id": "vitalfisher-plugin",
   "releases": [{
-    "date": "2022-05-15",
+    "date": "2022-05-16",
     "sha512sum": "B84FAE516F228D7129EB4093781916592D2749C3C6C41BE48C605C2BB334EB0C81C5D9FE07E1033F68B0732E03C0B8FBE5DBEAE557971939140193B7E1F58EE6",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.1.jar",
@@ -40,11 +27,33 @@
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Magic",
+  "description": "High alchemy only supported for now",
+  "id": "vitalmagic-plugin",
+  "releases": [
+    {
+      "date": "2022-05-16",
+      "sha512sum": "9CE8594282D2D42B2F2B20E070B3D460CBC66C8A44D5AE226F52B92CF314995BAF8A6A801F5B00FCD979151FA79E9C4D3A1077F74E941D3D446DA72A59109AAC",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-16",
+      "sha512sum": "F2FDC9ED110408E98884793059CDB82EFAC1A8A37C821ABD2190C5F7B32BD26F991DDE9B1A889B26A2AD15384D71EC8BA864FA3626E9E2A14F80D85EE287CAF4",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Wine",
   "description": "",
   "id": "vitalwine-plugin",
   "releases": [{
-    "date": "2022-05-15",
+    "date": "2022-05-16",
     "sha512sum": "3BA798F22C344CCE46FB32E873CCF48FC445FB35F6A12D92FA593D9DB524E7F822D27D3A39AE4CC695EE67ECF7209B1D0192509EEE15D9F0E4826040C80EAF60",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.1.jar",
