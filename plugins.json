@@ -72,6 +72,13 @@
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.6.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-17",
+      "sha512sum": "7313C6D57B8D18A45D37B73048020A4D45BA3F91DB73C1EC82DB765A1C48687A3DF369CBE04B7774800ED83FC9140E260285E340FA9FFA3DD0B8E744DF35A119",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.7.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
