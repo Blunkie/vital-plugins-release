@@ -4,13 +4,22 @@
   "name": "Vital Bank Stander",
   "description": "cool stuff",
   "id": "vitalbankstander-plugin",
-  "releases": [{
-    "date": "2022-05-19",
-    "sha512sum": "0370056CA2FB46C150DB9E5FF7B1FBBD50328767A1C2356E194395DEEBEE62CE98C0498D2983AD15E96281229DB9C7DBE68F6B535AD9ACD1B35F46CD295F77AC",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-19",
+      "sha512sum": "0370056CA2FB46C150DB9E5FF7B1FBBD50328767A1C2356E194395DEEBEE62CE98C0498D2983AD15E96281229DB9C7DBE68F6B535AD9ACD1B35F46CD295F77AC",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-19",
+      "sha512sum": "7A693730D90D4655F5A2BBFFBC671B558A72CAA594B41A5D1C0E54A37BB621E84DE46E30C2AB604D7ECFE742D90A37A78219596D197E80BB10E46989792ECD9A",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
