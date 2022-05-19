@@ -1,11 +1,24 @@
 [{
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Bank Stander",
+  "description": "cool stuff",
+  "id": "vitalbankstander-plugin",
+  "releases": [{
+    "date": "2022-05-19",
+    "sha512sum": "0370056CA2FB46C150DB9E5FF7B1FBBD50328767A1C2356E194395DEEBEE62CE98C0498D2983AD15E96281229DB9C7DBE68F6B535AD9ACD1B35F46CD295F77AC",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Fighter",
   "description": "",
   "id": "vitalfighter-plugin",
   "releases": [{
-    "date": "2022-05-16",
+    "date": "2022-05-19",
     "sha512sum": "F7FF64FE2B31BF595D789A3E77A49EDBE7E63089CA56BFAB41B6C98D83DBFF9C8C950CBB8CDCD8EADC0C4BC256DAC1B34FCFEEA316950B5C13E63B5B3EAA0747",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fighter-0.0.1.jar",
@@ -18,8 +31,8 @@
   "description": "",
   "id": "vitalfisher-plugin",
   "releases": [{
-    "date": "2022-05-16",
-    "sha512sum": "B84FAE516F228D7129EB4093781916592D2749C3C6C41BE48C605C2BB334EB0C81C5D9FE07E1033F68B0732E03C0B8FBE5DBEAE557971939140193B7E1F58EE6",
+    "date": "2022-05-19",
+    "sha512sum": "40515A584A65E768C4B2C3DA060B8359331609A41C017B7F998CC6158E65AA13CF8DADD935E9BE2973EDA3C60F8E8FC1B0EA96F5D504EC587C9E74CFA5C6319F",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.1.jar",
     "requires": "^1.0.0"
@@ -30,54 +43,32 @@
   "name": "Vital Magic",
   "description": "High alchemy only supported for now",
   "id": "vitalmagic-plugin",
+  "releases": [{
+    "date": "2022-05-19",
+    "sha512sum": "74E49A8CC53CD4412FC58D86E79D2A05CCEF33659D097F1E124A997DE2D9ED6A9A6F77271992D02E4797F9D7C5CF8021698720C4ABB49A66F4674869BDCC591E",
+    "version": "0.0.7",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.7.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Prayer",
+  "description": "Bury bones at the chaos altar",
+  "id": "vitalprayer-plugin",
   "releases": [
     {
-      "date": "2022-05-16",
-      "sha512sum": "9CE8594282D2D42B2F2B20E070B3D460CBC66C8A44D5AE226F52B92CF314995BAF8A6A801F5B00FCD979151FA79E9C4D3A1077F74E941D3D446DA72A59109AAC",
-      "version": "0.0.1",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.1.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-16",
-      "sha512sum": "7E52266060011CD9B6C328385D4F876ADAD686BA162576427D5C60B1E319CF14AC1D5D5922B772FA3DC9D2D0864263C71472FE882262BEAED25B3F90A7965FFC",
-      "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.2.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-16",
-      "sha512sum": "69ABDF754591BBBF81442AFD4E8A4CF262DE08BA4E4DCFF847D6C9FF0C67A801147BDAB58A6887CECC89F1F29765477DD0F98BC3C79B59FB848440EE63F439FA",
-      "version": "0.0.3",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.3.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-16",
-      "sha512sum": "5FCF78F20344F855A9E61B363E79D64A46262EF3BDD461DBD4FFC836C5117BBDDD413FFDDDBE2A76D24E614228CC4E2D1A3DB626203C4A6F8D8D2AF55C37953E",
-      "version": "0.0.4",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.4.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-17",
-      "sha512sum": "97CCEF8CE6A0330D941BA0ED1B4ADD8013B3CA9270F68FA227BE6399AFC70177F14B07949711BEFE190A0F42EEE8E7DE8D555BDD20241969B21361E6E53C734E",
-      "version": "0.0.5",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.5.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-17",
-      "sha512sum": "8225B8DCC0A4815C8B54BCAF59AEF6AD1981D9258E23DAC51370C0D54CD7C4DE11B5E7108E75F407504405BAD3E93BDD4E23399EB2BAB87680DC0B5DB337256E",
-      "version": "0.0.6",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.6.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-17",
-      "sha512sum": "7313C6D57B8D18A45D37B73048020A4D45BA3F91DB73C1EC82DB765A1C48687A3DF369CBE04B7774800ED83FC9140E260285E340FA9FFA3DD0B8E744DF35A119",
+      "date": "2022-05-19",
+      "sha512sum": "0F5931C4BDA1256C3C8675E931D0E0790860B00651A7263749DBCDF8C19D418F23BA3CD8C1D6FE17308909E4CEC52402B097B35DF609706E11C7DE2547193123",
       "version": "0.0.7",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.7.jar",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.7.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-19",
+      "sha512sum": "9EA8E247724E33B491CE6BFF8686AB44DD9C79FDA9B66B993F81C3586FEC750E5243B6FD2443F63826EA7CD9321578AF5446EA9973DD433C6C8D12E92DBBC998",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.1.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -88,7 +79,7 @@
   "description": "",
   "id": "vitalwine-plugin",
   "releases": [{
-    "date": "2022-05-16",
+    "date": "2022-05-19",
     "sha512sum": "3BA798F22C344CCE46FB32E873CCF48FC445FB35F6A12D92FA593D9DB524E7F822D27D3A39AE4CC695EE67ECF7209B1D0192509EEE15D9F0E4826040C80EAF60",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.1.jar",
