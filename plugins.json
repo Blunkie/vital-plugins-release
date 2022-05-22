@@ -100,13 +100,22 @@
   "name": "Vital Guardians",
   "description": "Guardians of the Rift",
   "id": "vitalguardians-plugin",
-  "releases": [{
-    "date": "2022-05-22",
-    "sha512sum": "3D231DFF404BC6DDA82BEF36DCE5D860B171B6CF96BD3C0D319934ED0AAEE5391D6F1F6E749237612AD36E0444B4EA40E8BD4634F8C42587D9F84D11CFE3F667",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-22",
+      "sha512sum": "F81000EC956DFCD688EC8B41955640CF5E21A719EEDF4ED457B99A16150CC7AF2D0CFD3FDF731D5DD1F7537E4E280429929574A5535D4E4A2ADF51E73497B472",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "8CF3AAF0E5C9584C21F97CE02F19B4F3AA72AE4A27BD9077E58FF7A3E9E8CC6200B950DAA77886133B5EAF76E4F0206AA17F513987DF0BF9167E4770545CF396",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
