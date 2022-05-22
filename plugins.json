@@ -58,6 +58,19 @@
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Construction",
+  "description": "",
+  "id": "vitalconstruction-plugin",
+  "releases": [{
+    "date": "2022-05-22",
+    "sha512sum": "CC11E1E225D38159D31C3793EAB91A91B6B73D9515A6EC1980FDABA4F6E3A6515530400985B467D5118EE0FC15A91E465B16AE6348187F693BE666F0BF436B0F",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-construction-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Fighter",
   "description": "",
   "id": "vitalfighter-plugin",
@@ -79,6 +92,19 @@
     "sha512sum": "40515A584A65E768C4B2C3DA060B8359331609A41C017B7F998CC6158E65AA13CF8DADD935E9BE2973EDA3C60F8E8FC1B0EA96F5D504EC587C9E74CFA5C6319F",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Guardians",
+  "description": "Guardians of the Rift",
+  "id": "vitalguardians-plugin",
+  "releases": [{
+    "date": "2022-05-22",
+    "sha512sum": "3D231DFF404BC6DDA82BEF36DCE5D860B171B6CF96BD3C0D319934ED0AAEE5391D6F1F6E749237612AD36E0444B4EA40E8BD4634F8C42587D9F84D11CFE3F667",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
