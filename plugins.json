@@ -121,6 +121,41 @@
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.3.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "AC806B866D1B67AAF3BEE92492D81820C7DAE2C13E3A4AD17D854CFF2117F64AA581A680F61C69A5E768B603710C12D63CFE6FE19E4E033A0E593AD65AFDF8D8",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "87AF676339AB04547344600142AF28B2A97DB1025F17D5AB9E76E0579CF9A43B931B8BF51516BD7ABD94B72AADA13E8295C5B8B2F510F931B8EFA33F49A177B2",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "90443F08CB646512543C1DDE5AF36F58D055BBA07C671E5EE54216CBAEC175731DA4BBA43034FF03DF172C7D803FDDEE765C18A2B801DBCC573E41A80888F800",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "189F4263663D31AFF71C38CC4359624B7E26C7DE5F7FD49D03727EB6318E8AD3EC12FC992C2D81743BFCBA23774129BB46355425744AD31E4C7653ECBA37FD50",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.7.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-22",
+      "sha512sum": "B54D1F3C61917AB4E0EDA09BC0A4AA497D1AB887F35D7E2CC9034A3592733CDD20C1E53B8A2ED9F71A7211B5D06105FD0507CC0D522B92D6E9BA14F6621340E6",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.8.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
