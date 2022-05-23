@@ -254,6 +254,13 @@
       "version": "0.0.23",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.23.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-23",
+      "sha512sum": "18C09EAB141D45E4DC83C914D7B307410915E0DE3A98CCE71B8E81349BF723009C7047C90D020E0EE46D5AB13845A4CA068B1091317B85DC728B43551C1B0376",
+      "version": "0.0.24",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.24.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
