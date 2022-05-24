@@ -4,13 +4,22 @@
   "name": "Vital Tests",
   "description": "tests",
   "id": "vitaltests-plugin",
-  "releases": [{
-    "date": "2022-05-24",
-    "sha512sum": "7379F5E8A2A7FC016D9C0D81E70CC7CA02D3E8459C7E0D7A8E35F0F937A46B09E43F191B97E5CDEC873AFE149299482E1CB675FCA971BD94CDDF8EE570364DAB",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/tests-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-24",
+      "sha512sum": "7379F5E8A2A7FC016D9C0D81E70CC7CA02D3E8459C7E0D7A8E35F0F937A46B09E43F191B97E5CDEC873AFE149299482E1CB675FCA971BD94CDDF8EE570364DAB",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/tests-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-24",
+      "sha512sum": "4045B7BE624D276181E9436290EFEDEA0C1966730F87D42A0F585822B4C9772201A28FBB342575D588D9CB74A94A5F56EA992B45E7646E19488753E657067161",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/tests-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
