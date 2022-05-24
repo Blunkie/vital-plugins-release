@@ -1,6 +1,19 @@
 [{
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Tests",
+  "description": "tests",
+  "id": "vitaltests-plugin",
+  "releases": [{
+    "date": "2022-05-24",
+    "sha512sum": "D4F1C7462B632540B2C6462EDAB1AC77F3DD3D4FCFFF0D552EF0881FFF0D7F82BC7D5037A6BC478852E9C26C9CBE8E8A5B73CF838D0762B2F6D0C44C5D408355",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/tests-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Bank Stander",
   "description": "cool stuff",
   "id": "vitalbankstander-plugin",
@@ -271,7 +284,7 @@
     },
     {
       "date": "2022-05-23",
-      "sha512sum": "7D032A6396D752E137391433E579CFE774AEF345A879581D697A7C4557E262E3E8653F83696A64F7B688152AEE9B7852C497046798F5106134497DCF4CAC2813",
+      "sha512sum": "AE363BD3EF781C8A0F01BE83CC9BD627E31FF31D1707B31805FAE30D2694B6F44E182AF3B86BCFA804E028845495BDC43DBFAB7D5DA65DA5CDDA5A4C0E4C63B8",
       "version": "0.0.26",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.26.jar",
       "requires": "^1.0.0"
