@@ -248,6 +248,62 @@
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.9.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "C3A97E58BEDF432CE90A6EC7E56E66A40FA99795C7F948763A22805C805D7CB7938AED24B1F9E8C44D7E3B1B13243CF67094F5B8FEBD2A949043FB54C3CBEFC0",
+      "version": "0.0.10",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.10.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "EEA5320FD89477501C09B7529EC8A027F987044DC19535FD37153E940965E966387568EA4E20BCD87A147D81893C4C7D3122D0805714AC7DD368BFA407BB1E7D",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.11.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "6FC6736845E806CD7E801A7C369FC195F30052A59ECEBA5EDACE931875D7E0164B3E2BF7CAEE4311F5AEA5C2D9E0E3F2B07DC61F505006605F23620D74CF67CD",
+      "version": "0.0.12",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.12.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "A2E0AEA3AFBCB6C76B638CCC02F2DEA1C04392B42B84E5B9C9911C7056955B807EBE3D320F94D3A08928D48EE5395B9FDE6D051BF9DEAC335CAB0C46F348068C",
+      "version": "0.0.13",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.13.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "587DA3A9CBCC31069DF84F4B601CD4D2BC864438A2C2DBEFE15F8B777C2788A3F60FBBFE0FFC652D28B176A426DFEFA4660A36A5B08F4D383D549AE152923BEF",
+      "version": "0.0.14",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.14.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "6B62B16D57638FA6D4984FD9216670099A51074D2D26FA79DA37D4BE6AAD06DAEEF358C47E21E6880370B7F24496CBB585619AB9B919754F7EF0D9D8CBBC6A98",
+      "version": "0.0.15",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.15.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "28BC0294588C94C7C56361E72FB67C797F749087B4169C35573348CF14CDD182C277C08ECDCFC78452BDF94977C6DF97ABF0F0AF42923E955203F359A5C981EE",
+      "version": "0.0.17",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.17.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "CA06CDDFBE34E3D6C11C1C91E560DAB433282C99AFBA9D8644264E82907273B2907DF5AE6E25996BF278804EA759DF9AAE81FBC1420E27633DCCDC5F31E981A3",
+      "version": "0.0.18",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.18.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
