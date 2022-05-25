@@ -96,6 +96,13 @@
       "version": "0.0.10",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.10.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-24",
+      "sha512sum": "F61B71A7D1C2D6FBC21C97885F01EA080ADEA37E37EEF4EBCF1F7F22A70DF048FC366D17986E7F9327F55AA9B51FCFC56AF3F9A7E12AD61CD4562994B7982605",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.11.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
