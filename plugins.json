@@ -75,6 +75,13 @@
       "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.7.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-24",
+      "sha512sum": "F52A63B6E0D6EB1FD42519B43A66123606F094EE296AB0EBEAF468BC1B6B357E44A6B4BF36FFC9AA15155B290188B99492C20A25A4FE57E28D3FBD25AB757064",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.8.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -296,6 +303,13 @@
       "sha512sum": "AE363BD3EF781C8A0F01BE83CC9BD627E31FF31D1707B31805FAE30D2694B6F44E182AF3B86BCFA804E028845495BDC43DBFAB7D5DA65DA5CDDA5A4C0E4C63B8",
       "version": "0.0.26",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.26.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-24",
+      "sha512sum": "91B837780138A0068FADA18947F866BB46220CFD238ACE9BA8E8A56163DA3705949EDD4FEFEE7C7CF80CB1D70202D26A8053C9BD5EA0ABD1E2444076944AA2A1",
+      "version": "0.0.27",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.27.jar",
       "requires": "^1.0.0"
     }
   ]
