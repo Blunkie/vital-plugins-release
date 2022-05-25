@@ -185,13 +185,22 @@
   "name": "Vital Garden",
   "description": "",
   "id": "vitalgarden-plugin",
-  "releases": [{
-    "date": "2022-05-25",
-    "sha512sum": "38B4B9EFF92819F7C3AB27D53BFE888ACE9944A8623C7DE270374A25DD151DF672D8F340B8ED0F007AA8F0701773BC7A41B372D2902B4C387C562E880EA303AB",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-25",
+      "sha512sum": "38B4B9EFF92819F7C3AB27D53BFE888ACE9944A8623C7DE270374A25DD151DF672D8F340B8ED0F007AA8F0701773BC7A41B372D2902B4C387C562E880EA303AB",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "81646898AC3070C86B06C8D0C804677CB22B7F37DBC61E6AD88469877EE2C60479A1BB4E8DCA2FA46BF9462387A631E6043315778A8BACA4FE2D2BCF3CE7FE9C",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
