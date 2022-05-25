@@ -134,7 +134,7 @@
     },
     {
       "date": "2022-05-24",
-      "sha512sum": "8B609C51D8BF7824BD16697F7491385E6613BF3C074ADEF0C0BB09D0AEF293CB74C7A6131E00987FFDE8AC173F82345EBF940DBC90F4F87FE7F7C95D80E64013",
+      "sha512sum": "5A6E70F1172B9E5D9F2B2E788E916D685BE14163AAF1402B35297F0F192151EAEEE338AF1F14E7876975CFAD0D0FFB2A68DF7C95925D8E9CC1BBD0AC7117E20E",
       "version": "0.0.17",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.17.jar",
       "requires": "^1.0.0"
@@ -177,6 +177,19 @@
     "sha512sum": "40515A584A65E768C4B2C3DA060B8359331609A41C017B7F998CC6158E65AA13CF8DADD935E9BE2973EDA3C60F8E8FC1B0EA96F5D504EC587C9E74CFA5C6319F",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Garden",
+  "description": "",
+  "id": "vitalgarden-plugin",
+  "releases": [{
+    "date": "2022-05-25",
+    "sha512sum": "31850E4776228431E5EBCFD64A0AAD0F9FF2741FBC89B9D20E5FC5310B427299FADD676807D28DFD0E7B08A4E4C0A7BAF3025400CFEF946045012BFCE1F10796",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
