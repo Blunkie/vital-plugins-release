@@ -199,6 +199,13 @@
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.2.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "F57F11BC6C73BA1D1798D184A2D625515EAF2AAA2128D967F6D0265AB78C167B31F29855679F36511A9D5AD0799D4DA556D0B62E103452426E4AD6D0B4E785D0",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.3.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
