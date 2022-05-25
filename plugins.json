@@ -209,9 +209,16 @@
     },
     {
       "date": "2022-05-25",
-      "sha512sum": "C7D57AF7B7E2223CC720A2BF8899F17D2FDE15564A6D3A14CBFAEE4DC61C8A74D75A19CF72890212B582CE949C16E8A5A8AD46887B13C99CF0949AEEACF04F27",
+      "sha512sum": "7138CAD6ED26F49AB20876542615D52B58811AA948492ACA486760FBE219273B3978F1F118D5CF471C6B3591178797842781BDAB684F01CF891B6929FFFCD26F",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-25",
+      "sha512sum": "F261419612A0E69FDEB74AAE84876404A005162C3839F29AFF8A6EA7591B56464B38680B77997A81B18701ADF8BB89F9B25DF3066779AE965BD17383B9AAC1AA",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.5.jar",
       "requires": "^1.0.0"
     }
   ]
