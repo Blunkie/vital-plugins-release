@@ -543,13 +543,36 @@
   "name": "Vital Motherlode",
   "description": "",
   "id": "vitalmotherlode-plugin",
-  "releases": [{
-    "date": "2022-05-26",
-    "sha512sum": "E0254F614F0BDB51EA9CB529C206C1CA68BE12BCA4B3C5AE9D00B0164B8A7BE1993D2D810501FA8BC43DD61A0285A3A6B74DEF1A86441FD541331E66A557A479",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-26",
+      "sha512sum": "E0254F614F0BDB51EA9CB529C206C1CA68BE12BCA4B3C5AE9D00B0164B8A7BE1993D2D810501FA8BC43DD61A0285A3A6B74DEF1A86441FD541331E66A557A479",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "E6FAB55DC829FCCC63D6494E820B78B52F1507B02CA11BB5DDEA042336124423A126CAA0841D3EE6BA8EF44C27C31314EA015BFCC966038FF2228C3432D018D6",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "DCEEB7B46B7A302C3336E7F57789C7C8A7153C4ED25F0F689D77163D56568C007162EB99DA4622E86671821D84C23BCF6AAF08214A28E2421CD2AFD16C37E6D2",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "C5C55123A6A5F646167095B5ECC7F07C544C2D963435C85DACEDD88F8B215E9036CECE27ED624DF5D0ECA95AC3627D75BA0AB9F9698202E8AB3190E090C49D2A",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.4.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
