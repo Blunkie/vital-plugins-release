@@ -540,6 +540,19 @@
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Motherlode",
+  "description": "",
+  "id": "vitalmotherlode-plugin",
+  "releases": [{
+    "date": "2022-05-26",
+    "sha512sum": "E0254F614F0BDB51EA9CB529C206C1CA68BE12BCA4B3C5AE9D00B0164B8A7BE1993D2D810501FA8BC43DD61A0285A3A6B74DEF1A86441FD541331E66A557A479",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Prayer",
   "description": "Bury bones at the chaos altar",
   "id": "vitalprayer-plugin",
