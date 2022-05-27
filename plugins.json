@@ -615,6 +615,20 @@
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.9.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-27",
+      "sha512sum": "475C404E353ED227567653078CBC7AC9830ABDB0173A7DA8E2D284CBF4867179610D52433BE569DB813F6FF2C85BB87F9938651AA2F1F78D52151ADF25F7A757",
+      "version": "0.0.10",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.10.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-27",
+      "sha512sum": "228AAC4A9B45C5304F793DA9F2B0FCE786D26D38A2B7393CBD8AEE53A89D24E6C20337D226E06FDFF6081DBDE5CC68A20F6C0580EDFE30827B6DAA5A8E598217",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.11.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
