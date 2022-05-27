@@ -530,13 +530,29 @@
   "name": "Vital Magic",
   "description": "High alchemy only supported for now",
   "id": "vitalmagic-plugin",
-  "releases": [{
-    "date": "2022-05-19",
-    "sha512sum": "74E49A8CC53CD4412FC58D86E79D2A05CCEF33659D097F1E124A997DE2D9ED6A9A6F77271992D02E4797F9D7C5CF8021698720C4ABB49A66F4674869BDCC591E",
-    "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.7.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-19",
+      "sha512sum": "59E259656EE81E59053155ED3626E224D84F2734FD7929488DBBD91212AFC7E745753CC2DBEBD12A9D6E23DCEF7698EEC6B07011FC209EA712C0E431A43B7F31",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.7.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "0F6E0B5D72297B96A5592C20C1B96F7CABC5380359F0495CD6ED8012D88250B114746A8FC76FA5413D20B093D40E4C2415A6862440BFFD4A1F946D992B29DC27",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.8.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "30EB07F9E89278CE46BACACB8AFC26F8F0AABE0FFA9722E36E798F06C7BA8E607D6685B7B24268F3F4E6D0A6D9FAD5F8E66C84F34DAB080B2F7B874FBBAC9AB1",
+      "version": "0.0.9",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.9.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -571,6 +587,13 @@
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.4.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "CF401210EDFCD8CE595E7F556B1669448D5D4846BADA1610E9115A6EEF7A66493CF7F5705C4FAF8EC7649D1A3E9F09CAFE89D347106DF6A972811D9A03C9E674",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.6.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -592,6 +615,28 @@
       "sha512sum": "9EA8E247724E33B491CE6BFF8686AB44DD9C79FDA9B66B993F81C3586FEC750E5243B6FD2443F63826EA7CD9321578AF5446EA9973DD433C6C8D12E92DBBC998",
       "version": "0.0.1",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.1.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Smithing",
+  "description": "Smith bars at Varrock west bank",
+  "id": "vitalsmithing-plugin",
+  "releases": [
+    {
+      "date": "2022-05-26",
+      "sha512sum": "06DBD801C304786D2B7CE67DF4FEB15C1AACC19246C8A9048CA99B74C2256D507E9299328EB54C0C8CA31F7FAE3CB9CDAB1D490C04957826E1558C8FA30684C8",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-26",
+      "sha512sum": "187001BD93531ED6389FBC6DE1FABFAFEF67C16EA968BEEEDC200157568719EC9BE136DF6F8410DA6CA1F75D95AD7029DE8E3348457F3F7CB63F438D8D2E92D1",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.2.jar",
       "requires": "^1.0.0"
     }
   ]
