@@ -26,13 +26,22 @@
   "name": "Vital Aerial",
   "description": "cool stuff",
   "id": "vitalaerial-plugin",
-  "releases": [{
-    "date": "2022-05-30",
-    "sha512sum": "BA36199CC3D4646720AB448AB77155786DCD33F4EC00267CFDC9D7266C1ED81532601B4F19C0B6DB29DAC38C34B054A23D2AFBBFAF47D79E1C2C943C56FC6618",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-aerial-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-30",
+      "sha512sum": "BA36199CC3D4646720AB448AB77155786DCD33F4EC00267CFDC9D7266C1ED81532601B4F19C0B6DB29DAC38C34B054A23D2AFBBFAF47D79E1C2C943C56FC6618",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-aerial-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-30",
+      "sha512sum": "4CA05A03394F85F203276E6EA0DEFCEA33CC8BB91853C14851F4B3426A4B149FEB63ABA3D9EEC1FBD09E0FC54DB6DB7D65AC7BA3FA5C19A822631A329892D93A",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-aerial-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
