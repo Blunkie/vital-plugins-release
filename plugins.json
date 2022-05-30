@@ -572,7 +572,7 @@
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Magic",
-  "description": "High alchemy only supported for now",
+  "description": "Enchant, Alch and Teleport",
   "id": "vitalmagic-plugin",
   "releases": [
     {
@@ -601,6 +601,13 @@
       "sha512sum": "632B8B85571AA36BECC2D97D02244004FCD40C6BEB18D3239052BFB43121888F59685D78A60C2A50A634F6FA87A3360335E9753279FC8F17EAC8390B46507F53",
       "version": "0.0.10",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.10.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-30",
+      "sha512sum": "B2544C3BD9E527082C20938A6E2B26B688ACB4BE83678A951D64D081571CC9F527666C2707EC2F9D6723A19023C5407D37AD760713B0B99A3D7C35150F8EB64F",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.11.jar",
       "requires": "^1.0.0"
     }
   ]
