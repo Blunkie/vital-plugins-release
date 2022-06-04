@@ -14,7 +14,7 @@
     },
     {
       "date": "2022-05-24",
-      "sha512sum": "4045B7BE624D276181E9436290EFEDEA0C1966730F87D42A0F585822B4C9772201A28FBB342575D588D9CB74A94A5F56EA992B45E7646E19488753E657067161",
+      "sha512sum": "E5C42008452F2F05709B924B2379F2F7ED7B11B74920E72A70C515C0C4006CFC8766193E1D5B7CCC84A77C61E87B3257C3D34783832822F394326CBF3EB202B1",
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/tests-0.0.2.jar",
       "requires": "^1.0.0"
@@ -194,6 +194,13 @@
       "sha512sum": "41EEF0244842576E4E3877FE83E53158729A2ABDDB6D3BC7291ACED1FD7A5420042298BA1905101A65F55D86555B11F0BE48B98D17B4142CD117775068EA10F4",
       "version": "0.0.22",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.22.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-05-31",
+      "sha512sum": "8AC4728F8DD095C82974500F5030ED3681CFD67343E4D099A7E7C6BC69EA4A337AEAC20435F020405740B73ADC6B752C80B12C896DD60DEE3EFBF0E91BCFBB63",
+      "version": "0.0.23",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.23.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -806,6 +813,42 @@
       "sha512sum": "9EA8E247724E33B491CE6BFF8686AB44DD9C79FDA9B66B993F81C3586FEC750E5243B6FD2443F63826EA7CD9321578AF5446EA9973DD433C6C8D12E92DBBC998",
       "version": "0.0.1",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.1.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Quester",
+  "description": "",
+  "id": "vitalquester-plugin",
+  "releases": [
+    {
+      "date": "2022-06-01",
+      "sha512sum": "E5A065B782B86D08D5B390F69AF3EEC96FF1A0B3D762797DD69A29E385D49014E4660E54B11FBD5503B15006C6E0CEC02C4592BFE7165C3350A917C24CAFE962",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-01",
+      "sha512sum": "8FF5B65FB0D909CF9A0983FD0C7DD11F0C10F01DE07EE5675B165BEACD7FA55BD1E6021FFC2A24DC9430B74BEA87581E0542CB842B10CED2B3A25CAEE0167392",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-03",
+      "sha512sum": "BF160331236C53111B991C0091BFF84ADDCB160C280B5225EF499F8A426B1AF8D5847D2539B6921A46EA9E1F5C6FB6E6C469E451D38040E5A1DF3C2891FD0C74",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-03",
+      "sha512sum": "6C7070D21DF35AB44781E2F238D3DF645F854F3B45DEE6E75E3CE8F3F2EF9FF3C52828A2DEA17BBBFF5FF7D60617CEC89437C0B82ADDAF60DCF6B41D7C750EB1",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.4.jar",
       "requires": "^1.0.0"
     }
   ]
