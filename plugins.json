@@ -62,6 +62,13 @@
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.2.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-09",
+      "sha512sum": "1C7A0068751E3D65AE6E7FDB04EF39B3C3782ADC32616A40E91823AC9D268057A87E41735D660BA7914924E5B5B4263035B65858CBD57312E58766CE710343B6",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.3.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
