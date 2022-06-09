@@ -45,6 +45,28 @@
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Agility",
+  "description": "",
+  "id": "vitalagility-plugin",
+  "releases": [
+    {
+      "date": "2022-06-08",
+      "sha512sum": "ADA4C45F1E3A20374A9299419B4A4CEFD7A8117F3D4FA00A91BE238268CBC01BD8B44EA7E2F68B7E56E6C1CB5228CBB93395EB1A9D016B05F57BABFCB6C395B1",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-09",
+      "sha512sum": "99129F521E370EA367B04F4C8C93046D0E35522B593D4620F02C531DDA976B5FA1AC577173EDCC7B45D3DDA6DBD07FF30E07B4A7B77AC9106547208B68FB19FB",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Bank Stander",
   "description": "cool stuff",
   "id": "vitalbankstander-plugin",
@@ -846,7 +868,7 @@
     },
     {
       "date": "2022-06-03",
-      "sha512sum": "6C7070D21DF35AB44781E2F238D3DF645F854F3B45DEE6E75E3CE8F3F2EF9FF3C52828A2DEA17BBBFF5FF7D60617CEC89437C0B82ADDAF60DCF6B41D7C750EB1",
+      "sha512sum": "B3BB3B576C1804EBEC58FC0EB9EBA0D424FAB4E98CE21EDDEB2D8A4626CCFFDE0DE8588F1A12CE23448B4EB8F11C15B6DE6B3DE674F4C158E523AF594E20A33A",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.4.jar",
       "requires": "^1.0.0"
