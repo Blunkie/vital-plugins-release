@@ -260,6 +260,13 @@
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.5.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-13",
+      "sha512sum": "78C9805589D7B6DB8FFBF1FA10F122E65C065E8CDDA7F6E9EDE1FDE8118C93EE8A029980EE4D5EB95B3CC298E4B7F9831A8071BB473B4DF376CDF063F3569F1F",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.6.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
