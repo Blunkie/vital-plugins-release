@@ -239,13 +239,22 @@
   "name": "Vital Cat",
   "description": "Grow your kitten into a cat",
   "id": "vitalcat-plugin",
-  "releases": [{
-    "date": "2022-06-12",
-    "sha512sum": "C37EE610E7D9D65670615682F7A85DE4422B96A4DE4E8C449236D1BA4E12D08797AB3BF1911225BF123E79F1CE9147E76EFD6F0A4FD71290A5F84C055C06D80A",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-06-12",
+      "sha512sum": "C37EE610E7D9D65670615682F7A85DE4422B96A4DE4E8C449236D1BA4E12D08797AB3BF1911225BF123E79F1CE9147E76EFD6F0A4FD71290A5F84C055C06D80A",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-13",
+      "sha512sum": "D6F56E1C6C99B7030ADA8A64A07914DEB415A9E4BA6968E51EB58975DBDF4D6D52EDC45596EDFEAFEE78F6360CAC09A3FF0679A06DDE774B3B71EEBEB1BE1AF5",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.3.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
