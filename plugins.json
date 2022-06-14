@@ -958,11 +958,20 @@
   "name": "Vital Wine",
   "description": "",
   "id": "vitalwine-plugin",
-  "releases": [{
-    "date": "2022-05-19",
-    "sha512sum": "BFD9397E7347EA51273AF4F3E4B11E6ED5F50D0D6F9058FC1955641AAA29A2069B29BCB177807C8398F1F2CE5D8F7211BC926058A1D61C49CD7558F904561E5E",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-05-19",
+      "sha512sum": "BFD9397E7347EA51273AF4F3E4B11E6ED5F50D0D6F9058FC1955641AAA29A2069B29BCB177807C8398F1F2CE5D8F7211BC926058A1D61C49CD7558F904561E5E",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-13",
+      "sha512sum": "AECEFCD5F4DCF487999E09552C793FFED2A6B0ADE3C067DC2BC4CAD4DAAEC3D2EB5C68A0C48985945728653CD20C6B86C52A49A2B182DE21CD5701CBECA122C8",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
