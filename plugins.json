@@ -226,7 +226,7 @@
     },
     {
       "date": "2022-06-15",
-      "sha512sum": "24793D71AD31A55EE0194834F3D7F31327AC2730EE1D49A120482D0F399192279A84B8D79175161F9B11FB78EACC2828F73F4ED7E7D292186720D727CBA87475",
+      "sha512sum": "EA49C1C05501DF29248D4951452A2DB12D471745016719A2A0E9CD0B9FDF27CD5CA8CE95E853B6EE941BF93073933ACE620A1F24B5AEFE15FF8F7B1B230238F6",
       "version": "0.0.25",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.25.jar",
       "requires": "^1.0.0"
@@ -908,6 +908,13 @@
       "sha512sum": "C34F26092DD4CA60C64E0612CCB4AF5078E66D4B2EFD05BEB64EB32BA7061AC7FA2168AA8B1423A776E386D245955302912D8492B884193DA292EC3E2361440D",
       "version": "0.0.22",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.22.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-16",
+      "sha512sum": "2DD72668C6A34FD1CC75935E678ED660C21AA622A8213483F4914E3FB857A37C7A08A3D7DEBBDDB59923FC65DE416B7388904C9A85EA4547FE64CD5E5640C6B6",
+      "version": "0.0.23",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.23.jar",
       "requires": "^1.0.0"
     }
   ]
