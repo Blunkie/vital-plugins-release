@@ -761,6 +761,13 @@
       "version": "0.0.14",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.14.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-23",
+      "sha512sum": "FB4DA7A2EE5F5B772CE1DD998E2613E3526B3481D36D855C87734773C167224EEFA0157020C47D61F909CDB83BE5B3518F3719A9E41A76B3C81CBF3FE4A89096",
+      "version": "0.0.16",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.16.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -919,7 +926,7 @@
     },
     {
       "date": "2022-06-16",
-      "sha512sum": "5825C3D0429C96FBC28BE49D6F2C5FF6545D64C3C9459562D07E504E37DB1AABC7B5C125BA20BB53A186FC01F0E51394DF8BFCE92CE7465793C7D8F2CD4A0F4B",
+      "sha512sum": "33D81ADA19F4889829DC4F52A5D93E9FFEF883DB270F7593F129337D134E981EC7F7EC801D32DE4573EA7E5A3B3F4B70BA52266EE15F7D2077077AC81CA26088",
       "version": "0.0.23",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.23.jar",
       "requires": "^1.0.0"
@@ -944,6 +951,13 @@
       "sha512sum": "9EA8E247724E33B491CE6BFF8686AB44DD9C79FDA9B66B993F81C3586FEC750E5243B6FD2443F63826EA7CD9321578AF5446EA9973DD433C6C8D12E92DBBC998",
       "version": "0.0.1",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-23",
+      "sha512sum": "C137706AFC8C53AF261BF8CE0924294B744BC8801D028E6E2CE0B020B7952AF29E720C17DAA77499A1A07D697FFA30D8EDDED654696A58B766E1E7DBE2BD7EF0",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.2.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -1035,7 +1049,7 @@
     },
     {
       "date": "2022-06-15",
-      "sha512sum": "2EAB5462DCBFEBC0042517C98D05650CFE31D2ACFACB84549B4C5C6AE50A0C1C7D06241AC0BE88EE128FE0D346FA59F87E86C0F7B09E5DADAEFF9477B24C089B",
+      "sha512sum": "67EC35332F9C0B4DA489084AF71BBA647CD495D9304E0377429E9E807879DF88B49227679BF712ED21FB1D3CD12C936FD60DA376D5426B2A3ECFA858F4C593DF",
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.5.jar",
       "requires": "^1.0.0"
