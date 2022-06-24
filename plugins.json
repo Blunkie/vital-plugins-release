@@ -1041,7 +1041,7 @@
     },
     {
       "date": "2022-06-24",
-      "sha512sum": "7DC7808A114C402030A43FAF9CEAC54A16E8C4AA171E13AA86824163B934495B7AC7064D28348DB561389F13ACEB823A04FCD62385BA2D6EE9C427474C6DB4AA",
+      "sha512sum": "AA6CB6CA0CAA77474793E825F672BEAF4CF53C47CF8E663DCB7BEA87A0478A393D97D023085A1D8A0064ED0B665E61E3F2C11251C8963D2292AAAAA410E21BDA",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.4.jar",
       "requires": "^1.0.0"
@@ -1051,7 +1051,7 @@
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Wine",
-  "description": "",
+  "description": "For ironmen to create wines at the cooking guild",
   "id": "vitalwine-plugin",
   "releases": [
     {
@@ -1087,6 +1087,13 @@
       "sha512sum": "261365FB53D9DAF46946849183D02A19B47BBAC6235310444506655DE8948080972154695E07A884B959947E8914CD42FB2DAE7E39FBA1E9810ED108FCDE13D2",
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-24",
+      "sha512sum": "193B9D98F9BBAB78434F1FBCA6DC62550FE0949CDEC866356DEBCEA8915997AAD48D41D4467C414B2CA2FB8FADCA5F492861682FFB4E9D6DDD0A661003F76129",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.7.jar",
       "requires": "^1.0.0"
     }
   ]
