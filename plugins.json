@@ -778,7 +778,7 @@
     },
     {
       "date": "2022-06-23",
-      "sha512sum": "4CAF8215ED417D6BA224037EF636488DE43D6A9514357C35D8A15E3F6861CBEAEA6A8B08316187CBF8512B9B0C6CFF76B29963EF364C23AE90F3672F8C0134FF",
+      "sha512sum": "DBE7A330B45D17DB318C0639136B2C5C823D385290B7072CD364FE53418C1EBEC4B54046DFC1957244EF46FB0DEB10927000D8198672825CA83008C8A063B57B",
       "version": "0.0.18",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.18.jar",
       "requires": "^1.0.0"
@@ -1030,6 +1030,13 @@
       "sha512sum": "9CE16695AEB73445497950CCEA7BAE7513C781A9064A838A9F3481A49D3937945E30694711C4BAD2A60A9DDB5F562184559ECA2919E79D91FA821FCB2D03D6ED",
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-23",
+      "sha512sum": "0B1C382352C4D15CE360A2C65AD0E9B5EC3E933C8A3EFE97279157B7410DF4783C7F0CCD6AD88C0C035C0D728C70E2F5790D441DE11A7951BB051A6A7D3D0971",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.3.jar",
       "requires": "^1.0.0"
     }
   ]
