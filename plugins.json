@@ -1038,6 +1038,13 @@
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.3.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-24",
+      "sha512sum": "7DC7808A114C402030A43FAF9CEAC54A16E8C4AA171E13AA86824163B934495B7AC7064D28348DB561389F13ACEB823A04FCD62385BA2D6EE9C427474C6DB4AA",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.4.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -1073,6 +1080,13 @@
       "sha512sum": "67EC35332F9C0B4DA489084AF71BBA647CD495D9304E0377429E9E807879DF88B49227679BF712ED21FB1D3CD12C936FD60DA376D5426B2A3ECFA858F4C593DF",
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-24",
+      "sha512sum": "261365FB53D9DAF46946849183D02A19B47BBAC6235310444506655DE8948080972154695E07A884B959947E8914CD42FB2DAE7E39FBA1E9810ED108FCDE13D2",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.6.jar",
       "requires": "^1.0.0"
     }
   ]
