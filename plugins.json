@@ -697,6 +697,13 @@
       "version": "0.0.27",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.27.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-27",
+      "sha512sum": "FB14FB01FFFE7F9898BC05A1E9D4A514B43745D03880B1D93718C0FFAE7CBBEF8D0161BE88FB8D85D5FFDEEC9A29139D33AC14CE2DD92BC822363048144513F3",
+      "version": "0.0.28",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.28.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -940,7 +947,7 @@
     },
     {
       "date": "2022-06-16",
-      "sha512sum": "33D81ADA19F4889829DC4F52A5D93E9FFEF883DB270F7593F129337D134E981EC7F7EC801D32DE4573EA7E5A3B3F4B70BA52266EE15F7D2077077AC81CA26088",
+      "sha512sum": "0D2FA3AD9B76CC14EB1952DA68DD6F48B152B4CE9A982FEF6479454DB074593E6A4D855DA61FA24B00C1649B78F8FA988558886F2577F3FABEB0AEBCA9EDC507",
       "version": "0.0.23",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.23.jar",
       "requires": "^1.0.0"
@@ -1050,6 +1057,19 @@
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
+  "name": "Vital Thieving",
+  "description": "Ardougne knights",
+  "id": "vitalthieving-plugin",
+  "releases": [{
+    "date": "2022-06-24",
+    "sha512sum": "D7DEFF1C566F3BBB4600ADE9C9B60FC57235EE881265748DD58F1793D1662FD20A8EBF3869EF3257B9218A93F4E6CB8BEB95431232630A4BF15BFA8281AB3817",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
   "name": "Vital Wine",
   "description": "For ironmen to create wines at the cooking guild",
   "id": "vitalwine-plugin",
@@ -1094,6 +1114,13 @@
       "sha512sum": "193B9D98F9BBAB78434F1FBCA6DC62550FE0949CDEC866356DEBCEA8915997AAD48D41D4467C414B2CA2FB8FADCA5F492861682FFB4E9D6DDD0A661003F76129",
       "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.7.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-06-24",
+      "sha512sum": "9347A4B8BA40F0DC86B2E871E6726AA90016F4806BC81B260E8DFC04940E2C24F870BDA3C116E79AB463D039577DDFC2542C6895C662C4140266738472CA7AF6",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.8.jar",
       "requires": "^1.0.0"
     }
   ]
