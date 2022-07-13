@@ -323,6 +323,13 @@
       "version": "0.0.11",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.11.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-09",
+      "sha512sum": "4E91142D074A57CD9E9A1AAEF961D8672CC43F859898E03D61197BB98BC2912035578A3B85A272665F8A744637A5542CAFC50C835C50271A8023ED41D027C537",
+      "version": "0.0.12",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.12.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -386,6 +393,27 @@
       "sha512sum": "FEED8609A82C9CE031A82FA9481517AA2B81AA15472282079CF3C09EC85553621F4504F53728B9BC7EFA4DC5EA2434416E01A33BC97364F46BE2C8664ACCD248",
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-09",
+      "sha512sum": "980F4B2ECBB2938300A0460747E0041B357C0550B2E9E6EA0A1570289E56F8B7D0E9E6A0CB32943795DF6915614A9BB09654410FDBCD4FCC14FE5720506906B0",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-11",
+      "sha512sum": "47BD1F0A30E77C18231007BE0CC34E68A59AB6BA151D1149FD7DDA2A747C1A1FA6BB166915E4ACD1C315F90FB0EBFFDD2F36BF9DDDBBCC0EC1A6A63473FA00E9",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-11",
+      "sha512sum": "322C30D459F8FF8C4F38449AA52A1699EFE890BAEB4DA640026BD90CDD5B26A10D1217B05B36B4A3C72A38DCC50A6D7030818E74025CEF7C2443B1545EACE06B",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.6.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -1072,15 +1100,59 @@
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Thieving",
-  "description": "Ardougne knights",
+  "description": "Stalls and Pickpocketing",
   "id": "vitalthieving-plugin",
-  "releases": [{
-    "date": "2022-06-24",
-    "sha512sum": "D7DEFF1C566F3BBB4600ADE9C9B60FC57235EE881265748DD58F1793D1662FD20A8EBF3869EF3257B9218A93F4E6CB8BEB95431232630A4BF15BFA8281AB3817",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-06-24",
+      "sha512sum": "D7DEFF1C566F3BBB4600ADE9C9B60FC57235EE881265748DD58F1793D1662FD20A8EBF3869EF3257B9218A93F4E6CB8BEB95431232630A4BF15BFA8281AB3817",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-10",
+      "sha512sum": "1F0D52F29F260A5ECCBA0EAF0B1CF995EA1A07C563C5BECC251C642EA35B861FBFE8C0D9FEC2BFB5DDEAE1032369A973D6FECCEE961FD3F0EF4916D8540C947D",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-10",
+      "sha512sum": "3D2C26FFD4C951D243707E92198B56F09F6B009BB4FD637B3F36A46A991737CBA13DECEDB006182AEB487000251619BFA908AFE4BD643EAEC0D13A680BB89CE1",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-11",
+      "sha512sum": "B1F27911DE3BAFA88841E09CD0B213D1F69FAB0F8358774CBEB9F482DFB13ECECDA3CF0BB6E3226E9811856950DC578685F5A6DDC31C86FC3DD227C484CEAED1",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-11",
+      "sha512sum": "7F6A02EE29D5D12F6EE99B5DA7026D89EB5EB46C4FD7CFD99354F2CB309B54C95CE2B4CA25B631F03B7C90ED6EABA5985277584934AA6EB2104A6A45A4E035F7",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-13",
+      "sha512sum": "E3A6EA4D620CA31A69D4712511D5D958E11974E638EC92D6782D3BC5B47711524822CF303F2D4ECDE1E0EB6F351BACA198F867E17EF7BC14101C287B18C04305",
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.1.0.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-13",
+      "sha512sum": "57A21975BF6CBC427ADCCD649E8C2D49EC94E883327F8E4900F2ABF7E099B0B9A18C202216F8A7A242304AAC7A1B39C06048E92687D2F67BC6D946570FFDE75C",
+      "version": "0.1.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.1.1.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
