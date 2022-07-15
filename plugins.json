@@ -273,6 +273,13 @@
       "version": "0.1.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.2.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-15",
+      "sha512sum": "C36651F600320DA2CA3BC708823DA06AD4006CA97D9DB11E9A1FBAACE70FCC3961A39FA4B3D248BDB2ED7013A1B4F1CC53BF3BECB0518B5A87721DE5A7ED1710",
+      "version": "0.1.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.4.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -1096,7 +1103,7 @@
     },
     {
       "date": "2022-06-03",
-      "sha512sum": "93E7DE19B4108F03F9567C6A027D2EDF7AAA3E1BD06B85B72E8EB111EAFAA325BF2497743BB6C7311395E473EA8E0292B85132C9859180CF19D7C60B490B5F48",
+      "sha512sum": "F1B5E8861253AA07460F0FE545A1FEEFAC4E14ECA6777D6FC9E247619534F3A52213A6672A69687C49971B3BCE850A5E9F4D04648F940FC1AF5C396A7E616955",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.4.jar",
       "requires": "^1.0.0"
