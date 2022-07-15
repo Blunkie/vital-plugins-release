@@ -255,7 +255,7 @@
     },
     {
       "date": "2022-07-14",
-      "sha512sum": "D2C5C50F4E4F530F279D8AD38DAF6E22CD6D0808A65D93A1D4C7710DCBF3977A322496BD489605AA49D00DD9322F9788650D9B47C056EE1AADC95C1D57C48BDB",
+      "sha512sum": "D83157C5F6664D2BE6F0E2A6C1D72A6D035E4A8DF1BF8D65D916916AB982F986B315D17A5AC39575861D578A0103E9EB7AB75EFBB8842524EB54FCB09317BCCA",
       "version": "0.1.0",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.0.jar",
       "requires": "^1.0.0"
@@ -837,6 +837,13 @@
       "sha512sum": "C1EAF6A8F8445FD1056ECBB0EE7CDA8FAEF15E2C617ED32542E58EEA5E384824A7265903EF80CDB140F933A6665B922CA674FA13BBAFB89B186AAB59C8967310",
       "version": "0.0.18",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.18.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-14",
+      "sha512sum": "594AD455426140D95F6F13D905A304F1E5F2E84D7292B9623D0995A02D0323DE4BC479756099AFE5E16F576C71CCD906FE6E96DF7452C49835EB6D6E620FEA49",
+      "version": "0.0.19",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.19.jar",
       "requires": "^1.0.0"
     }
   ]
