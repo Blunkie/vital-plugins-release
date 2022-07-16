@@ -280,6 +280,13 @@
       "version": "0.1.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.4.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-15",
+      "sha512sum": "305412CF380C19AC96A8A8720CB62DAD0B77A676415597EBEB14C0BC532C8250ECAA848BC0B721E908F75B54C9E0340B94088BFEA9CEDF0DE6F0E44E2AF863DB",
+      "version": "0.1.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.5.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -781,6 +788,13 @@
       "version": "0.0.29",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.29.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-15",
+      "sha512sum": "4E52825110ADC9630EA971C873199353E3DB5D453309145C72DE64DE0F7C1CDC231C9872764CE9481D57EEB0AE58868747E23DD799258E0A46254DA911A41C79",
+      "version": "0.0.30",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.30.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -1106,6 +1120,13 @@
       "sha512sum": "F1B5E8861253AA07460F0FE545A1FEEFAC4E14ECA6777D6FC9E247619534F3A52213A6672A69687C49971B3BCE850A5E9F4D04648F940FC1AF5C396A7E616955",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-15",
+      "sha512sum": "94402AE388EAAAA554A4DE8ACB0D255627A06B9C7DCA1088414F9A1A94F3ECD78621885F7EB4B7BFF9EF611A94951529F9AF43E36C019F530AB8B673604EBB31",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.5.jar",
       "requires": "^1.0.0"
     }
   ]
