@@ -1143,13 +1143,22 @@
   "name": "Vital Sandcrab",
   "description": "Slay them crabs",
   "id": "vitalsandcrab-plugin",
-  "releases": [{
-    "date": "2022-07-15",
-    "sha512sum": "ECD87AF4A15A68677B4F11D5C419AB5FDB81B28A2714B4997325A0EA55C23A92EF8FC2B2127FB8565E2AD9ABA4B7EDC59F36CEB3DB9610DB9298FCEFC616E1F0",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-15",
+      "sha512sum": "ECD87AF4A15A68677B4F11D5C419AB5FDB81B28A2714B4997325A0EA55C23A92EF8FC2B2127FB8565E2AD9ABA4B7EDC59F36CEB3DB9610DB9298FCEFC616E1F0",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-16",
+      "sha512sum": "44D7036DB0B4855C413F3533F4C5202143D5791BC95E7409D46FE755CD5145D6EC0F43FCEA9307194E1D8931DC3D2BA36CD1AB562245170E0D66FBF5F70CC130",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
