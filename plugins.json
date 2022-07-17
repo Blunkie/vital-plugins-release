@@ -1171,6 +1171,20 @@
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.4.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "99DA53710B0EE16B1961F2548EFA7156BC6E6CFFEAACE90772A483B68BC34301BD1C5ACF949B991A37341CE545A7E1397316C77F27FF449C47210A7CEF762CA0",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "8FB00DD887BD229C2EDCD79475BC3C0869350783E96EF9632CA162848D1B7ADFEE7B8284ED97613C2FF197FE3C0AF5426C21C0648D2F6D57E736637761C64CB1",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.7.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
