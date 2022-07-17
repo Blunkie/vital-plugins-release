@@ -30,13 +30,22 @@
   "name": "Vital Birdhouse",
   "description": "Birdhouse runs",
   "id": "vitalbirdhouse-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "D80BDA881D46F7A16E4D18B9CF035FD246B9A4C1C8A28DB069F2B1AFDD97660C70766A477317E6B10B6983C0A8844277DE0AA6192DAC35DA13B610426F86B1FF",
-    "version": "0.1.6",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.6.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "D80BDA881D46F7A16E4D18B9CF035FD246B9A4C1C8A28DB069F2B1AFDD97660C70766A477317E6B10B6983C0A8844277DE0AA6192DAC35DA13B610426F86B1FF",
+      "version": "0.1.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "39D079FBD41C72E96A54D18874509159636E595EB7A712DD8822895D36149AE62FC3A9C8A645130255687628E2E3B1B82E1FACDC7818785390FF74C2DAD9CE93",
+      "version": "0.1.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.7.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -225,6 +234,13 @@
       "sha512sum": "19D6F930286B79EE79F8F50418DEC991B062E5175C920BC5ED87FD3001707CC7E44D0478DA9C02BB012C565F32CFEB814929C823C49A9B20CD98B264032F3B40",
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "E00B44CCDEC885E9C3575E1772D7516088B7FAE2970F74EFBF1342E2312B934F9CE934F77E6BF6E150CC6A19F10EABB258294D69CFFD4675C91D8FE3EFCE87B3",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.3.jar",
       "requires": "^1.0.0"
     }
   ]
