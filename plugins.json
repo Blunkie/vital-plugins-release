@@ -208,6 +208,13 @@
       "version": "0.0.25",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.25.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "D3BD4F7CF846035E5242F7443F5C41116345E1BFD3187327D0DBEFF0B352E70982EBA7AB64B043E0521DEC9BE640F7ED9A4278AF54D5D4735E8696FF8A6DF4AB",
+      "version": "0.0.26",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.26.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -441,6 +448,13 @@
       "sha512sum": "322C30D459F8FF8C4F38449AA52A1699EFE890BAEB4DA640026BD90CDD5B26A10D1217B05B36B4A3C72A38DCC50A6D7030818E74025CEF7C2443B1545EACE06B",
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "CFDBC0B72D6D44E7C2C7FFB60BA8B4E6F7812A23056F6A8985671F12146D1438860DF568FF5B827596C497ECCFF0506D97369CBDEC5919B95C593BF5AF05A903",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.7.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -1163,6 +1177,13 @@
       "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.7.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "7365963B50FBA4DE1E37B50757A07EDBB247814907B2DD513FD3B7610568F9A2D689CC1C2D42A6DF86455228DFDDC0E4632B99C1344AFBBBB499E36E3B7EAA11",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.8.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -1273,7 +1294,7 @@
   "id": "vitaltools-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "A99980D0D6B57E6E98075048AF30925A1401FFFB30809D4D5C992277672356A8ED2DDCA88C7B668487EA82F0732BB83913E3BAA0771EEE5807805870EF05353D",
+    "sha512sum": "201A3B35D4AA26A73B27AC910BE30AB2D8CE889EC2E1B4BABEC352BED3FF46DA554C7A364D25E253B4C4664E41533F42D0273E33CB82B1D361F23B6DFDF89901",
     "version": "0.0.2",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.2.jar",
     "requires": "^1.0.0"
