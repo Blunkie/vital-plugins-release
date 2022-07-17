@@ -32,7 +32,7 @@
   "id": "vitalbirdhouse-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "5957CB219BB10C7A2F6940250837D65C7DCBD34A9B84B1EC517A1DE95D8530DF1E429117ABD5604B9ED43737B11EB75EA8F2ECBF7A2A81774AE9B251F49591A4",
+    "sha512sum": "D80BDA881D46F7A16E4D18B9CF035FD246B9A4C1C8A28DB069F2B1AFDD97660C70766A477317E6B10B6983C0A8844277DE0AA6192DAC35DA13B610426F86B1FF",
     "version": "0.1.6",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.6.jar",
     "requires": "^1.0.0"
@@ -212,13 +212,22 @@
   "name": "Vital Tools",
   "description": "",
   "id": "vitaltools-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "2D81023694A41B4732D15C564D47175C33712FF3BBA220DAE54D95CDD6CDA8AD55BF662FDF3C2C0ECDB252772CC4A177C0E3551F5D9E387E9D38F6804734A7CB",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "2D81023694A41B4732D15C564D47175C33712FF3BBA220DAE54D95CDD6CDA8AD55BF662FDF3C2C0ECDB252772CC4A177C0E3551F5D9E387E9D38F6804734A7CB",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "19D6F930286B79EE79F8F50418DEC991B062E5175C920BC5ED87FD3001707CC7E44D0478DA9C02BB012C565F32CFEB814929C823C49A9B20CD98B264032F3B40",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
