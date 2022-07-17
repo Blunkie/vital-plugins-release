@@ -1,0 +1,235 @@
+[{
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Agility",
+  "description": "",
+  "id": "vitalagility-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "AC4E1A8F7BF6A9E79461D1DB731A625C9C1D2BAE2D0EED5108C86FCE0C92A0B7AFD52793B2897A586B9D8CB4827A323CEEB04189128A8BDFFB280E3B72A2F06E",
+    "version": "0.0.4",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.4.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Bank Stander",
+  "description": "cool stuff",
+  "id": "vitalbankstander-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "D3BD4F7CF846035E5242F7443F5C41116345E1BFD3187327D0DBEFF0B352E70982EBA7AB64B043E0521DEC9BE640F7ED9A4278AF54D5D4735E8696FF8A6DF4AB",
+    "version": "0.0.26",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.26.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Birdhouse",
+  "description": "Birdhouse runs",
+  "id": "vitalbirdhouse-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "5957CB219BB10C7A2F6940250837D65C7DCBD34A9B84B1EC517A1DE95D8530DF1E429117ABD5604B9ED43737B11EB75EA8F2ECBF7A2A81774AE9B251F49591A4",
+    "version": "0.1.6",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.6.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Cat",
+  "description": "Grow your kitten into a cat",
+  "id": "vitalcat-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "95D47D60E73B952E54D4D13FDEE0F755DF9A3CBDBAF28D73EF5A19266DFCAD1CAE31CF06D2F605875B4771F2796029CD735625D7BFBAF706373A88D2C5A5D684",
+    "version": "0.0.13",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.13.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Construction",
+  "description": "",
+  "id": "vitalconstruction-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "56A304739F9F40A846F5304F2AC0F03F37D2D3FE4C169DBA630E8010BFA40BA8AC0266B17E23A95C4D4CB2BEDDC4AFC32F6B34F5B7B8B5BF6F9C8FC9AFFC190A",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-construction-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Fighter",
+  "description": "",
+  "id": "vitalfighter-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "66B7DE7590FE0DE1F1A33D35F859E93D06A1B43ED96324218CFAFE80C93F28EF3F3577CDAB3B95BB760B63B787386CBD08B5BB52F6840C52C376A2E323C3F1E3",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fighter-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Fisher",
+  "description": "",
+  "id": "vitalfisher-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "CFDBC0B72D6D44E7C2C7FFB60BA8B4E6F7812A23056F6A8985671F12146D1438860DF568FF5B827596C497ECCFF0506D97369CBDEC5919B95C593BF5AF05A903",
+    "version": "0.0.7",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.7.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Garden",
+  "description": "",
+  "id": "vitalgarden-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "8CB4B67D35B987504BD096EBA29085D7BFA6E3D1EA0D4203840A101EA400D7BE069A6BB1E3B67045C36437B71DE6B03C0D603AEAB66461084437A0A81E63CA7A",
+    "version": "0.0.18",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.18.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Guardians",
+  "description": "Guardians of the Rift",
+  "id": "vitalguardians-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "4E52825110ADC9630EA971C873199353E3DB5D453309145C72DE64DE0F7C1CDC231C9872764CE9481D57EEB0AE58868747E23DD799258E0A46254DA911A41C79",
+    "version": "0.0.30",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.30.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Magic",
+  "description": "Enchant, Alch and Teleport",
+  "id": "vitalmagic-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "7385DE900791C1C99EAD45530460EF176D4ED7A6B37CCB364F69BD396E665F3D5CE72F383C08BD3A2D82B753927B5FBC4A2BFD2C48F8DCCC18B8D4F55127F55C",
+    "version": "0.0.20",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.20.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Motherlode",
+  "description": "",
+  "id": "vitalmotherlode-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "0D2FA3AD9B76CC14EB1952DA68DD6F48B152B4CE9A982FEF6479454DB074593E6A4D855DA61FA24B00C1649B78F8FA988558886F2577F3FABEB0AEBCA9EDC507",
+    "version": "0.0.23",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.23.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Prayer",
+  "description": "Bury bones at the chaos altar",
+  "id": "vitalprayer-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "C137706AFC8C53AF261BF8CE0924294B744BC8801D028E6E2CE0B020B7952AF29E720C17DAA77499A1A07D697FFA30D8EDDED654696A58B766E1E7DBE2BD7EF0",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Quester",
+  "description": "",
+  "id": "vitalquester-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "94402AE388EAAAA554A4DE8ACB0D255627A06B9C7DCA1088414F9A1A94F3ECD78621885F7EB4B7BFF9EF611A94951529F9AF43E36C019F530AB8B673604EBB31",
+    "version": "0.0.5",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.5.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Sandcrab",
+  "description": "Slay them crabs",
+  "id": "vitalsandcrab-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "F739FA1D6A5701ECE0495392D12CE912220BB83F9E0C297470606EF4D17FE68235029E554F3D10BE9CD5860AC5B9C9B8C786126606A96E9ACC274C0B832C731F",
+    "version": "0.0.9",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.9.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Smithing",
+  "description": "Smith bars at Varrock west bank",
+  "id": "vitalsmithing-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "AA6CB6CA0CAA77474793E825F672BEAF4CF53C47CF8E663DCB7BEA87A0478A393D97D023085A1D8A0064ED0B665E61E3F2C11251C8963D2292AAAAA410E21BDA",
+    "version": "0.0.4",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.4.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Thieving",
+  "description": "Stalls and Pickpocketing",
+  "id": "vitalthieving-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "219EFCE529EC55BCADFD1B2A8C570DC8279776B15ADF18CDBC7269863351BE43652A4E777182D868A6577E617745D7AC31626A855F28FB6879265CC5B4D8EAAB",
+    "version": "0.1.2",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.1.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Tools",
+  "description": "",
+  "id": "vitaltools-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "2D81023694A41B4732D15C564D47175C33712FF3BBA220DAE54D95CDD6CDA8AD55BF662FDF3C2C0ECDB252772CC4A177C0E3551F5D9E387E9D38F6804734A7CB",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Wine",
+  "description": "For ironmen to create wines at the cooking guild",
+  "id": "vitalwine-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "8CA332DB8C10CC2A22D6477D5333EFBB1DA17AB457CD9589D4A3B859B68A8F901211145C8DE4184A250A43FDC37AE769EA02BD841A709E02501388B14F353F06",
+    "version": "0.0.8",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.8.jar",
+    "requires": "^1.0.0"
+  }]
+}]
