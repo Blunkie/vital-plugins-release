@@ -44,6 +44,13 @@
       "version": "0.1.7",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.7.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-17",
+      "sha512sum": "3C53C749A0B5E88C5D705B882756537B7D7C30D792F78FEB04F2222E704DB9EB70D63312F5EE830F4EB5ECCB7622F7EFCFBF06BEAA866C27874C470225CF8168",
+      "version": "0.1.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.8.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
