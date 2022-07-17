@@ -1,28 +1,6 @@
 [{
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
-  "name": "Vital Aerial",
-  "description": "cool stuff",
-  "id": "vitalaerial-plugin",
-  "releases": [
-    {
-      "date": "2022-05-30",
-      "sha512sum": "BA36199CC3D4646720AB448AB77155786DCD33F4EC00267CFDC9D7266C1ED81532601B4F19C0B6DB29DAC38C34B054A23D2AFBBFAF47D79E1C2C943C56FC6618",
-      "version": "0.0.1",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-aerial-0.0.1.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-05-30",
-      "sha512sum": "C1ABC91CFBCE97048E4D46BAB6D3B446CEDAAD40049651C19EEABB76234DC0BFFD8A28D50324A737C6B60E99DAA0CC2EACB2D46EC939349681DD49B91AAF87DB",
-      "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-aerial-0.0.2.jar",
-      "requires": "^1.0.0"
-    }
-  ]
-}, {
-  "projectUrl": "https://discord.gg/qzkwwtCPkY",
-  "provider": "Vitalflea",
   "name": "Vital Agility",
   "description": "",
   "id": "vitalagility-plugin",
@@ -1181,7 +1159,7 @@
     },
     {
       "date": "2022-07-17",
-      "sha512sum": "8FB00DD887BD229C2EDCD79475BC3C0869350783E96EF9632CA162848D1B7ADFEE7B8284ED97613C2FF197FE3C0AF5426C21C0648D2F6D57E736637761C64CB1",
+      "sha512sum": "DF05B12965B1FF8A1738AD0F16276971DC075C001007B3C84624A158737449AC15906CD0E2850A92DE8F95B9B01B4B2C0F5E5F800F4FC244326CB6CBC4D64D71",
       "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.7.jar",
       "requires": "^1.0.0"
@@ -1287,6 +1265,19 @@
       "requires": "^1.0.0"
     }
   ]
+}, {
+  "projectUrl": "https://discord.gg/qzkwwtCPkY",
+  "provider": "Vitalflea",
+  "name": "Vital Tools",
+  "description": "Automatically login after disconnect",
+  "id": "vitaltools-plugin",
+  "releases": [{
+    "date": "2022-07-17",
+    "sha512sum": "A99980D0D6B57E6E98075048AF30925A1401FFFB30809D4D5C992277672356A8ED2DDCA88C7B668487EA82F0732BB83913E3BAA0771EEE5807805870EF05353D",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
