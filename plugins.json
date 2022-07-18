@@ -96,15 +96,24 @@
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Fisher",
-  "description": "",
+  "description": "Fishes angler fish only for now",
   "id": "vitalfisher-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "CFDBC0B72D6D44E7C2C7FFB60BA8B4E6F7812A23056F6A8985671F12146D1438860DF568FF5B827596C497ECCFF0506D97369CBDEC5919B95C593BF5AF05A903",
-    "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.7.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "CFDBC0B72D6D44E7C2C7FFB60BA8B4E6F7812A23056F6A8985671F12146D1438860DF568FF5B827596C497ECCFF0506D97369CBDEC5919B95C593BF5AF05A903",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.7.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-18",
+      "sha512sum": "6C4F27F0C7EE22A7452CA18270507B8369AB2503037338F8DBC9990C5F9C1EEE844436470A8E278D4D54A781C68A3D0D8EBE4C4775B1DF5A9481197D4A3475FD",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.8.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -137,13 +146,22 @@
   "name": "Vital Magic",
   "description": "Enchant, Alch and Teleport",
   "id": "vitalmagic-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "7385DE900791C1C99EAD45530460EF176D4ED7A6B37CCB364F69BD396E665F3D5CE72F383C08BD3A2D82B753927B5FBC4A2BFD2C48F8DCCC18B8D4F55127F55C",
-    "version": "0.0.20",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.20.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "7385DE900791C1C99EAD45530460EF176D4ED7A6B37CCB364F69BD396E665F3D5CE72F383C08BD3A2D82B753927B5FBC4A2BFD2C48F8DCCC18B8D4F55127F55C",
+      "version": "0.0.20",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.20.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-18",
+      "sha512sum": "BDACDE26ED91AE33D6A06C2645C83EA29110F36CFEBC14629DF5873E6A7A87258D2513A5F1CA5437E45B6A68CE0825EE3B51FF6F4A8B5088B68FF4A14F0EC60C",
+      "version": "0.0.21",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.21.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -178,7 +196,7 @@
   "id": "vitalquester-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "94402AE388EAAAA554A4DE8ACB0D255627A06B9C7DCA1088414F9A1A94F3ECD78621885F7EB4B7BFF9EF611A94951529F9AF43E36C019F530AB8B673604EBB31",
+    "sha512sum": "D1565E04C5645C8539F7DAB0A4D26E1EF2ECD60C9A68C4BE25BEA29D939DEF899145DDE37020AC62876863D92390FD579AA81396AE4E52360A87B33FE5A157E5",
     "version": "0.0.5",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.5.jar",
     "requires": "^1.0.0"
@@ -189,13 +207,22 @@
   "name": "Vital Sandcrab",
   "description": "Slay them crabs",
   "id": "vitalsandcrab-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "F739FA1D6A5701ECE0495392D12CE912220BB83F9E0C297470606EF4D17FE68235029E554F3D10BE9CD5860AC5B9C9B8C786126606A96E9ACC274C0B832C731F",
-    "version": "0.0.9",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.9.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "F739FA1D6A5701ECE0495392D12CE912220BB83F9E0C297470606EF4D17FE68235029E554F3D10BE9CD5860AC5B9C9B8C786126606A96E9ACC274C0B832C731F",
+      "version": "0.0.9",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.9.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-18",
+      "sha512sum": "CA0FC9C018F1B27D55B05DCDCB4CA380ADBFDE1582643B52CCB4DEB96226B1B988D1D642B36EBC070C2927F1B85C65FE2A1D31676FE0D690A1C8B70EBF85A6E5",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.11.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -245,9 +272,16 @@
     },
     {
       "date": "2022-07-17",
-      "sha512sum": "E00B44CCDEC885E9C3575E1772D7516088B7FAE2970F74EFBF1342E2312B934F9CE934F77E6BF6E150CC6A19F10EABB258294D69CFFD4675C91D8FE3EFCE87B3",
+      "sha512sum": "F84BAEC6C2B5EC5F38E642FDAE65BC1702DCAD59E342232A1F61F3C45E2A4BDB2166925871E1BCDFC25D58CB38899CE1F3B2039CE8175636E8DD570EC79A7DE3",
       "version": "0.0.3",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-18",
+      "sha512sum": "0D1921CC5B46B81D32FD0F4458A61CDF669D3C62D7A0907E7F1B2CE4CEA2FBD746B7B09A7229BC0B37481982D736EE1EC35BCC4EC02F34892B3EF5EF331EFD6A",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.4.jar",
       "requires": "^1.0.0"
     }
   ]
