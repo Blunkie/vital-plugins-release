@@ -4,13 +4,22 @@
   "name": "Vital Agility",
   "description": "",
   "id": "vitalagility-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "B7B05EAC90E556973B82204D5E1DA21DFDA37B70ABFEF185853324E6F9561E8E138A24BBDB64118BD341166AB1612AF54E5023948C340DF4A2A24096268790B1",
-    "version": "0.0.4",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.4.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "B7B05EAC90E556973B82204D5E1DA21DFDA37B70ABFEF185853324E6F9561E8E138A24BBDB64118BD341166AB1612AF54E5023948C340DF4A2A24096268790B1",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-20",
+      "sha512sum": "3B71EB1A9ADB41C6722303DCAD530D0E4C1FBCE83AA74B87DB7B95E09BDFA804249FC561206DC8591D4FB1020F4B6F108F18197F10CAE6DD0A85855D0262410D",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -212,7 +221,7 @@
     },
     {
       "date": "2022-07-19",
-      "sha512sum": "AF60BC9FEC7813B7D3D65731251738696EB2CC15F8F7B6417029316B789B95F90E0DB7A8D45529CB9353B5E78428FF9AC72742B66DC4432CB16F53A4408E7F4C",
+      "sha512sum": "94ECDC967077F8D15A067EC786C3E8F1CF1C4CDA88BC35920C8C03CA09C1418E8300B480EC98475039AE657A4AB14659AE5B2D441E5FF0802637B08308A433C7",
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.5.jar",
       "requires": "^1.0.0"
@@ -309,7 +318,7 @@
     },
     {
       "date": "2022-07-18",
-      "sha512sum": "4FEBEFAD809D5D64AEC4D475C2C2FEC4452FECB2B7AC1CD340267A00106B9E2EF729DC9990761FDB3888F67F81D08CA1322CBB84768B3110FAE41EEF33BDD73A",
+      "sha512sum": "AC767B35B5DD75ABF451197447E1ECB375A2F7DACF6C68FD8E29B52BD7A6F1CFB73F4BA3C5246E7B9FF32220C0FE78DCCE7D8DB2AA7C35629F4FB480C4C0C34C",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.4.jar",
       "requires": "^1.0.0"
