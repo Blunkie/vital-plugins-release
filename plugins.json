@@ -6,7 +6,7 @@
   "id": "vitalagility-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "AC4E1A8F7BF6A9E79461D1DB731A625C9C1D2BAE2D0EED5108C86FCE0C92A0B7AFD52793B2897A586B9D8CB4827A323CEEB04189128A8BDFFB280E3B72A2F06E",
+    "sha512sum": "B7B05EAC90E556973B82204D5E1DA21DFDA37B70ABFEF185853324E6F9561E8E138A24BBDB64118BD341166AB1612AF54E5023948C340DF4A2A24096268790B1",
     "version": "0.0.4",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.4.jar",
     "requires": "^1.0.0"
@@ -112,6 +112,13 @@
       "version": "0.0.8",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.8.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-18",
+      "sha512sum": "53FCEAE3B504F51FF5ECF136BD2EE26BC0638E5E9DDCD012D6F10F237F1F8CDFFF3A6DC3E417418A102CF3A4518B8DDD3F24762584C1B3CD234BA7ECC5FA2CD0",
+      "version": "0.0.9",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.9.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -135,7 +142,7 @@
   "id": "vitalguardians-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "4E52825110ADC9630EA971C873199353E3DB5D453309145C72DE64DE0F7C1CDC231C9872764CE9481D57EEB0AE58868747E23DD799258E0A46254DA911A41C79",
+    "sha512sum": "D4C3286128039803C25DEE82CE42D9551102C2DD7A8E8CC39F611A1683CF3CEE7BCEB96B2262AD952A93B7D4BC773869B14EF10FA579E12E03388E236CC42608",
     "version": "0.0.30",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.30.jar",
     "requires": "^1.0.0"
@@ -181,13 +188,36 @@
   "name": "Vital Prayer",
   "description": "Bury bones at the chaos altar",
   "id": "vitalprayer-plugin",
-  "releases": [{
-    "date": "2022-07-17",
-    "sha512sum": "C137706AFC8C53AF261BF8CE0924294B744BC8801D028E6E2CE0B020B7952AF29E720C17DAA77499A1A07D697FFA30D8EDDED654696A58B766E1E7DBE2BD7EF0",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-07-17",
+      "sha512sum": "76A8A11BDD2D5E7250FDC3C90E3F8048403E828433478E5A73ACB42C8F91138E571CA4A92EC61ACE1DE62C0122D7E6551319BF1C9507185454D1A5B95E5B84B3",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-19",
+      "sha512sum": "ED76B3E91EBAA94877060DF9E52F9CC0D12DE2E3DA3FB82C86481F4F34A86D76AE47D51F54D21B3BEE0148DEAD9597FA6AF7188A4EA58A170515C1B003E49A14",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-19",
+      "sha512sum": "18C41EB965D9B5F3F67B9A850526480928AB4706B4B1B74967C3E8562C64D4615480868DC3673B1BBBAD38C5D68FAB0681505047D045468FB2B992DC8DC7A69F",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-07-19",
+      "sha512sum": "AF60BC9FEC7813B7D3D65731251738696EB2CC15F8F7B6417029316B789B95F90E0DB7A8D45529CB9353B5E78428FF9AC72742B66DC4432CB16F53A4408E7F4C",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -279,7 +309,7 @@
     },
     {
       "date": "2022-07-18",
-      "sha512sum": "0D1921CC5B46B81D32FD0F4458A61CDF669D3C62D7A0907E7F1B2CE4CEA2FBD746B7B09A7229BC0B37481982D736EE1EC35BCC4EC02F34892B3EF5EF331EFD6A",
+      "sha512sum": "4FEBEFAD809D5D64AEC4D475C2C2FEC4452FECB2B7AC1CD340267A00106B9E2EF729DC9990761FDB3888F67F81D08CA1322CBB84768B3110FAE41EEF33BDD73A",
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.4.jar",
       "requires": "^1.0.0"
