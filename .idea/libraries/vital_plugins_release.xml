@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="vital-plugins-release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vital-fisher-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-wine-0.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-quester-0.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-construction-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-smithing-0.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-guardians-0.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-agility-0.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-tools-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-magic-0.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-prayer-0.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-birdhouse-0.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-fisher-0.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-prayer-0.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-sandcrab-0.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-tools-0.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-sandcrab-0.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-bank-stander-0.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-birdhouse-0.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-garden-0.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-thieving-0.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-tools-0.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-cat-0.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-prayer-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-fisher-0.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-prayer-0.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-tools-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-fighter-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-birdhouse-0.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-magic-0.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-motherlode-0.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vital-agility-0.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
