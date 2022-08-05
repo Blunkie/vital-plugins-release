@@ -172,6 +172,13 @@
       "version": "0.0.22",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.22.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-05",
+      "sha512sum": "362162A6A494B993A825DE817609A5F0910F556BFAA6911D54150CC1C3939C1E0DF224D624D78236C4C309714B44CBBDCC7E31561691A49A62EABD25E4988AF5",
+      "version": "0.0.23",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.23.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -241,7 +248,7 @@
     },
     {
       "date": "2022-08-03",
-      "sha512sum": "9701D354C6EBFC81CC6A54855A031205E200C4953D688F010A6EAC66FA596E8091E506CE66745988EFEE1A609B92359DAFA863801978DF4A8703F7A163603887",
+      "sha512sum": "4CC04B4F700AD3C4B1951B4A53E888A5B4A03B3F6CC260A18AB434589EC042DC2CC284AAE87027EA56748BEB5E1820CC1210DA0430E33E5B49A5A9C8404F73DD",
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.6.jar",
       "requires": "^1.0.0"
