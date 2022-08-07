@@ -18,6 +18,13 @@
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.5.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-06",
+      "sha512sum": "46D7FF276146F0FE8612A974AEF1479B37EA5637283A120B6312B82C4F3EA9FFA23C441CDEE69FC508674DD0969A3F094B43DF84ABE1308DECACE6ED4A468BAC",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.6.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -105,6 +112,13 @@
       "sha512sum": "8F37D58029B8047EE8DB4FA04871851CC5E81884603A75C56E30A3B3438F9039B30DD8F5F05D8BE648CDC2457ED60EB3668D1BF5EDA3784B226EB9FEA9F3FB57",
       "version": "0.0.10",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.10.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-06",
+      "sha512sum": "13F4AB7D97FCE39EB00A6BE2611B5B3553C85A7962E082A35DB42599BE7CAB9E2CC4AC78AB165B29D6AAA913EEDB0181B83D11E4AC04C5A210562BE11D9F2E8D",
+      "version": "0.0.11",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.0.11.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -374,7 +388,7 @@
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Wine",
-  "description": "For ironmen to create wines at the cooking guild",
+  "description": "Make wine at the cooking guild",
   "id": "vitalwine-plugin",
   "releases": [
     {
@@ -389,6 +403,13 @@
       "sha512sum": "2F972E7AEF0C967ECE230B0EC918CB93AB62DE8D3D27A4144CB771681388ECECE88831C0C664B61620037A8685DAE6D9AE603FFCF6C6DBB033526419080D5BF5",
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.9.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-06",
+      "sha512sum": "62A8186B26AE054DDAF3C2E2127ADB57F792B5ADEBC7CD7454E2F8219FDA1F9D990EBFE2B85C833D82C4966D3662CD60F6F4E34EFE01EDF322D5894040AAC03C",
+      "version": "0.0.10",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.10.jar",
       "requires": "^1.0.0"
     }
   ]
