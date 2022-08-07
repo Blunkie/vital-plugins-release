@@ -269,7 +269,7 @@
     },
     {
       "date": "2022-08-05",
-      "sha512sum": "38594E6A522ADAA740C3EE76D25788C6254ED22492B81C2DC7F3CD5878E5247B7337D97D5071D5CFC6EDEC78531B7999AD2E258FAEC0E72AFC040309EEE0B202",
+      "sha512sum": "147C94AF7D2AACEEF5E9BE189E5AFAC9B25B93F7D7C59994BA98E9FE22B0A6736A5FCDDC1E7A8C2868EBCBC573F92A3E93B4AEB60A11A4E4188DB6C27AA026C6",
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.0.9.jar",
       "requires": "^1.0.0"
@@ -294,6 +294,13 @@
       "sha512sum": "5AF56621D1C3D66990F1B8D11A76C32CB94BF4C6A90F04784BCA6686ADE894F1443E9EAE70F48BF18691C7ADFDD3DDE72C47770D33600ECB2F13725F11585BFB",
       "version": "0.0.12",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.12.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-06",
+      "sha512sum": "92AD7A6095B0DE1F31E68BED6E9545E6A747FB9487CCEF39C6B363BD093D3E0D018587C06A9003A14BEF3E5B221ED68377464DEBC3D38CF204FF3034915B5AEC",
+      "version": "0.0.14",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.14.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -379,7 +386,7 @@
     },
     {
       "date": "2022-07-31",
-      "sha512sum": "3EA88792EE314A6269C7D4EE75067EC223145C1524D3457FC1BDED4DA10620A48740E0B8C32F59686173B9BA41987C71D6CC16648A96EEE35E6AF05BD902129C",
+      "sha512sum": "2F972E7AEF0C967ECE230B0EC918CB93AB62DE8D3D27A4144CB771681388ECECE88831C0C664B61620037A8685DAE6D9AE603FFCF6C6DBB033526419080D5BF5",
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.9.jar",
       "requires": "^1.0.0"
