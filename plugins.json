@@ -134,13 +134,22 @@
   "name": "Vital Quester",
   "description": "",
   "id": "vitalquester-plugin",
-  "releases": [{
-    "date": "2022-08-11",
-    "sha512sum": "1F801D4ABDB75EE58941EDFFA5BA3B97FCCF8E9614EDF922A8DD038F54BA5214DCB6ECF7CFBABAEEC7B5DBD8DC8C0F41780ABB820820064FDDF097EBDEB986DF",
-    "version": "0.1.2",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.1.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-08-11",
+      "sha512sum": "C0B130C90A37B300878965174BE06CB0262F2BB69A57FB719E6CB4D30B85098D1B2CE7339657643F8EBDD3C0703662B037E03E8AA0933CC2061E7D563A02458A",
+      "version": "0.1.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.1.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-11",
+      "sha512sum": "8EC25D2B0C4E7BC7AC4DA30A364880D063236D35B8E6E876FCA063B09C2CA944C0042B26ED2D88C8ED4258BA3BD22E600066DA67DD0B4263ED120E35E2043AE0",
+      "version": "0.1.3",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.1.3.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
