@@ -172,16 +172,9 @@
     },
     {
       "date": "2022-08-12",
-      "sha512sum": "8E61C76CF57915883A7DB50DA27EB40561B51163A66D7D543AC0D9AC8ABD46F0B9BBD0AAF432B246E086339102DA0AB95FA0D9296699E8A4A6522A53CD2B239F",
+      "sha512sum": "54B63AF8EA64DB8E8014027EC414E834F4689174A60988683E752411FBEE2A652C6249E727DB63FC9070CA034FE758B89486E12A3851360C59CB1A7CBDC40B35",
       "version": "0.1.8",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.1.8.jar",
-      "requires": "^1.0.0"
-    },
-    {
-      "date": "2022-08-12",
-      "sha512sum": "0E1BE47DD44A1BCFCA1E2B02A9AED740BFE925D99D9DBABDC9860C064360117C62A73054042561FAB369A84F908C19E8E47E4C0B7891DA25CDDA091D7170FE3A",
-      "version": "0.1.9",
-      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.1.9.jar",
       "requires": "^1.0.0"
     }
   ]
