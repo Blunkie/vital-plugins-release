@@ -253,6 +253,13 @@
       "version": "0.2.1",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.1.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-14",
+      "sha512sum": "65A563EE2D3564696F802BA6E494B9EC0363E29CE02BF45F6E8302A0E45839F7E19C1E67854B6F48BD39AD9BF9AFD62FD5E69B006B4E5B64DC7F37ECF1B86E37",
+      "version": "0.2.2",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.2.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
