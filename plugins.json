@@ -95,13 +95,22 @@
   "name": "Vital Magic",
   "description": "Enchant, Alch and Teleport",
   "id": "vitalmagic-plugin",
-  "releases": [{
-    "date": "2022-08-11",
-    "sha512sum": "0858B6FCDADA1B95E392D223670ADDF3DAC2F53613022D8C28356A56CA3A0D8AA017AF09F2ACA6EE842AD19536475B1A21A4F7B45D609F3110A4A8BA4781A31D",
-    "version": "0.0.24",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.24.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-08-11",
+      "sha512sum": "0858B6FCDADA1B95E392D223670ADDF3DAC2F53613022D8C28356A56CA3A0D8AA017AF09F2ACA6EE842AD19536475B1A21A4F7B45D609F3110A4A8BA4781A31D",
+      "version": "0.0.24",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.24.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-08-17",
+      "sha512sum": "1813E840933F26BA679E67EC76AA04DB236A20A83183199C331A41EA16A7B72F0E311C40F3375C6511F3BFA5FFFACB038E0BB2B9A41EA721F93418565236FA59",
+      "version": "0.0.25",
+      "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.25.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
@@ -284,7 +293,7 @@
     },
     {
       "date": "2022-08-15",
-      "sha512sum": "38ABFB58E80EA48803E04AF1B6E22973DF6C64AE9D5A0BA6A93D6E3D2EF39D543389A58E134B1A61C7582D0244EF0BEBADDABDDC430FFA56CA638B8B7D50E625",
+      "sha512sum": "082BB5C8AE82E72FD06471503840714BA9444123D46B6EB5DE370C5327BA3FF69C95CEE91DB9DAC4C90127744BDD373A0E7A1FFE60D68BAC8B95355E19C25822",
       "version": "0.2.6",
       "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.6.jar",
       "requires": "^1.0.0"
