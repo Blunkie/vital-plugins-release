@@ -58,9 +58,9 @@
   "id": "vitalfisher-plugin",
   "releases": [{
     "date": "2022-08-21",
-    "sha512sum": "8A6921D1AA20548AFA74F1AC070863AA0418F0B21C59F27E1C2CC20924EE8A6A403AAB28644FADE5C439167D8BDB52F4CBB0E3ADBD6601EE08DA56DDEA59C1B1",
-    "version": "0.1.0",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.0.jar",
+    "sha512sum": "302858DB3E82D7A9066151D6E1A9EFD3F3482D9CB0BF15E0C3AE8F9792FA65B1DAFAA1AC20253F2132AFC6CAA733E9057BCA007F9218027D1BE8225DA3DB8A3F",
+    "version": "0.1.1",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
