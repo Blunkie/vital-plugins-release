@@ -58,9 +58,9 @@
   "id": "vitalfisher-plugin",
   "releases": [{
     "date": "2022-08-21",
-    "sha512sum": "302858DB3E82D7A9066151D6E1A9EFD3F3482D9CB0BF15E0C3AE8F9792FA65B1DAFAA1AC20253F2132AFC6CAA733E9057BCA007F9218027D1BE8225DA3DB8A3F",
-    "version": "0.1.1",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.1.jar",
+    "sha512sum": "C5F8D5ACE671CDA58FEA00853FBC6ED12637E5586136851695082803E17D247B0B6C46FF3C0B8504AD62C40B5691F172919F993C136B8FADFBB18D678ABC3C08",
+    "version": "0.1.3",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.3.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -136,7 +136,7 @@
   "id": "vitalquester-plugin",
   "releases": [{
     "date": "2022-08-21",
-    "sha512sum": "1B26476D0BC51772262D1C993710F6C2DCE880153A10AB407DDF0F4546DC326AE4217D540B08AD292B6AA698C086C8BE9E315A0296D310CE832BA3E50E6F23AB",
+    "sha512sum": "001798CEB330E06B96B7F9E570F66D19C0972D08930FFAD1D3CA6D350574FC256F1FEB2C5D428D6BA4FAEDE74AA4A605902E400E4D1DB463B484FC9CACAF2694",
     "version": "0.2.6",
     "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.6.jar",
     "requires": "^1.0.0"
