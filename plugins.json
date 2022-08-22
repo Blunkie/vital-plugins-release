@@ -5,10 +5,10 @@
   "description": "",
   "id": "vitalagility-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "D5A660EF3BC6B25A714CDD54A2049FD6FEDE32DA224D0ABB1597455F0FABCEEF6A25BC0BF3B13A054A0126013F27929D54D45E6D95C08B28683F6F8EEA8B2862",
-    "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.7.jar",
+    "date": "2022-08-22",
+    "sha512sum": "4AA363E5DD68E9FAD76D3D287A5706E04F0FF5564D73ED8D9FE4440483629EE08377E5841376E6341C091F2C9CCB784AEA45DE6B4BF4A1E781A74900D0D9A22D",
+    "version": "0.0.8",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-agility-0.0.8.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -18,10 +18,10 @@
   "description": "cool stuff",
   "id": "vitalbankstander-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "149B83A6613D64E4BE628D033771F1CE6ADE99F2F194EE670E7991A42D0F2180B2EC17BA485A4C10DE2B2C2CF1E322784EF475DABE2EF2FCE7D9954571684F42",
-    "version": "0.0.28",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.28.jar",
+    "date": "2022-08-22",
+    "sha512sum": "13510D6FDA0B0FE650489CD975CADF139511EDC3FD5095C6BFCC691E5DC9011622BCCCBE0D0C3936CBBFF9424D1A0B199CB9D2226270014FEAE7511D3B7A807F",
+    "version": "0.0.30",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-bank-stander-0.0.30.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -31,10 +31,10 @@
   "description": "Birdhouse runs",
   "id": "vitalbirdhouse-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "A3A5A78008E14A2F9027CD51FC156821C6CF0A29C3F577E2238DFFB67AD18365509A788D1C186A777E3E705DEF9F16584C9052A97B28084E45A584D8A3CF2FE8",
-    "version": "0.1.10",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.10.jar",
+    "date": "2022-08-22",
+    "sha512sum": "7CCEA54C23C1ADE21A4C9316E07B1618048D259D6F974DC3609F49C7CB9169B369FE8C693B7252A06397DA91F6A9330DD5511D25B0A4228547ADA955ECA58805",
+    "version": "0.1.11",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-birdhouse-0.1.11.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -44,23 +44,23 @@
   "description": "Grow your kitten into a cat",
   "id": "vitalcat-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "FD5DA5FE5566CEA06CF0DBD417AEBF41481D72155B4A113B10472069BC12A71047C2B56BD881C77313D825DABA971BCD98C536159A13F3C485894EB5B09AD619",
-    "version": "0.0.15",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.15.jar",
+    "date": "2022-08-22",
+    "sha512sum": "809EEDBB3D5A1474A29B48CBCB15E96558F67F6F9ADF518C06912611F7AC4A46CD0370DC00AB3C5EA2CD0E39D7D7C607B56F4A9F2040343A78C5BB00A0610199",
+    "version": "0.0.16",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-cat-0.0.16.jar",
     "requires": "^1.0.0"
   }]
 }, {
   "projectUrl": "https://discord.gg/qzkwwtCPkY",
   "provider": "Vitalflea",
   "name": "Vital Fisher",
-  "description": "Fishes angler fish only for now",
+  "description": "Fish anywhere based on your configuration.",
   "id": "vitalfisher-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "C5F8D5ACE671CDA58FEA00853FBC6ED12637E5586136851695082803E17D247B0B6C46FF3C0B8504AD62C40B5691F172919F993C136B8FADFBB18D678ABC3C08",
-    "version": "0.1.3",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.3.jar",
+    "date": "2022-08-22",
+    "sha512sum": "A2779834B107EFB9BC28CA2AA80727518829DE523A2EBB5EA1D5F12013AA4F40957C86F19593176666E235A891A1FEC5FD7622527B11B4A7AD19636597E6F49B",
+    "version": "0.1.5",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-fisher-0.1.5.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -70,10 +70,10 @@
   "description": "",
   "id": "vitalgarden-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "0F608E3BE4A5A989573308DC93559F49E4A106B0A24516DDAFF0E4579CA7F45748EDF43814E67DBAA65F7E8A80B3B7111DA1D006E728D9EBEF7D2F146459B1B8",
-    "version": "0.0.20",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.20.jar",
+    "date": "2022-08-22",
+    "sha512sum": "F9DD92E682D41EFD3FBB75FBE638B2EDCF987A41137ADA6D880612C74AB43C99723BA2DF541BA9D41133E6F6861126C5B63A11D6829A5258C8FE9016DB2FCFD2",
+    "version": "0.0.21",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-garden-0.0.21.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -83,10 +83,10 @@
   "description": "Guardians of the Rift",
   "id": "vitalguardians-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "883F4C5C0E6EBBFFFDDE44F238D9816229C638C2803AD4559933B98C64C0DD391814A547A5B7BD28EDAD0841E9F04C2FC45BECA643F535DF65CE88082F54F1DC",
-    "version": "0.0.32",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.32.jar",
+    "date": "2022-08-22",
+    "sha512sum": "78B94899F579CBD9CA41053AFC76F60D2E224AF32ECA28DB43AC6A164DB9EBA920108DCCDFF08675C7F85A05597BD1E6A2067FC1E7A62BEA01F862E514806EAB",
+    "version": "0.0.33",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-guardians-0.0.33.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -96,10 +96,10 @@
   "description": "Enchant, Alch and Teleport",
   "id": "vitalmagic-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "683338F9B6F99FE6F99835F9F7A3F5F001ACCC0B29DD184161068DD3EB11D2E4B85A677DA3581C33C00B2C53993CFF875F6E484D853F6CCA37FE849EDD02EC9E",
-    "version": "0.0.25",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.25.jar",
+    "date": "2022-08-22",
+    "sha512sum": "6864CDB4452FA2F30291DC4E289B54578E2B39E2FCFB809C1BE022F36B9B46619244925BD61919F0CD8B0826F94F36881147535E581EA9B635B086F26A1C2CCC",
+    "version": "0.0.26",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-magic-0.0.26.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -109,10 +109,10 @@
   "description": "",
   "id": "vitalmotherlode-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "C3FC3BCA9BEACB7A407B61D079139D744680501BAC9084640D9DBAFB492187E9102551DA76C93D5E99FEC1D7A8078C403A12C20A20F09C21FA9F9AD6D55FFEBF",
-    "version": "0.0.25",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.25.jar",
+    "date": "2022-08-22",
+    "sha512sum": "C25166ACA1EE6057569D746B36EE17E729C3A4C9A80048157FB378EF3D31EDC7962EDD52FCBE6ECEFA54E0ABF6708CF9C7A8CDDC52064513BF9F9489A925496B",
+    "version": "0.0.26",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-motherlode-0.0.26.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -122,10 +122,10 @@
   "description": "Bury bones at the chaos altar",
   "id": "vitalprayer-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "5ABC694087336268DEB96AF69AD9E04BDD4ADB054F0DFC36909BEC2885C64039C2DF020B4C5A951D7C75279330BBE7BA88555398C54E294E618ACDE265E47F7E",
-    "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.7.jar",
+    "date": "2022-08-22",
+    "sha512sum": "100B49233BCF1A65E3A4621D2BDF5F25FACFC8799FCD7E560ABD2CE6CCE8BFA78EE3CD9A317BCF19663816214C55698A7D84E25A1A517D9B68C4FE310ED9265D",
+    "version": "0.0.8",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-prayer-0.0.8.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -135,10 +135,10 @@
   "description": "",
   "id": "vitalquester-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "001798CEB330E06B96B7F9E570F66D19C0972D08930FFAD1D3CA6D350574FC256F1FEB2C5D428D6BA4FAEDE74AA4A605902E400E4D1DB463B484FC9CACAF2694",
-    "version": "0.2.6",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.6.jar",
+    "date": "2022-08-22",
+    "sha512sum": "E86D921E65ED9C87F014AC965E64E7A7F7BF8B8211B95CF06599EDB551134750FE82E371FE88C149456D6D159C3AB849A63CD41104EA5B564E477D70582D75C3",
+    "version": "0.2.7",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-quester-0.2.7.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -148,10 +148,10 @@
   "description": "Slay them crabs",
   "id": "vitalsandcrab-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "601B69BB06BAD9AE8DB9EC3850230D363C681E7C5F71D6F4B965FD99612AAD20673325ED6B414463B5309963AE69B0DACAA30BB1E316030B7FCF4D8CF84950DE",
-    "version": "0.0.15",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.15.jar",
+    "date": "2022-08-22",
+    "sha512sum": "BBECE8EF1C6D37DE655971A8E870074CE8E88296208B7B963A7D5CE4D2A6F46DF1FC6A43737A3CA585B1D10FA48FAEB33E45C37ACDC71AA35148D8BB9B2471E3",
+    "version": "0.0.16",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-sandcrab-0.0.16.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -161,10 +161,10 @@
   "description": "Smith bars at Varrock west bank",
   "id": "vitalsmithing-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "597EA10B7920FFA2E125D66E98E6A15DC192F822CD2F5329C6EB08C629B5CFA47EF43034C004F81928200ED6BB6B18E6DFDA61B2BEEF5ECEEA7ABE6506D07B21",
-    "version": "0.0.6",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.6.jar",
+    "date": "2022-08-22",
+    "sha512sum": "1F4E9115342B352B1BC3F6488C787EECA3871CB570CF82097DE2FAAFAD3633B3AE404F122CB427E99FB9766E6D3DDD79B00CFDFFDE549E59E3F725394CB7B1B0",
+    "version": "0.0.7",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-smithing-0.0.7.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -174,10 +174,10 @@
   "description": "Stalls and Pickpocketing",
   "id": "vitalthieving-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "B938E486ABF1FA57F61EF845B0F46372DBA0BA1221D72CB3F4A02720778925576C07F22133C3BD498375E3B815ABC985BC08AD8BA597767A8662579B5DE8F647",
-    "version": "0.1.4",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.1.4.jar",
+    "date": "2022-08-22",
+    "sha512sum": "F4E662868A855FAF595E87C86D7CC5E8D6B35BFEA1A241CA105E5483898817B293B735D7F2A35E72C3B0028B18F9FC5523D9677F07A88C5576CCC43839B338C0",
+    "version": "0.1.5",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-thieving-0.1.5.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -187,10 +187,10 @@
   "description": "",
   "id": "vitaltools-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "0E65C5964E58DE7217C6BB377D20361A4A76D89971F26D9F704B2E778A6E05C6BFD4DA5C305B48D62DFD91D06BC4C6D7B02544877C7B5FE0CD85A85BB7668A4F",
-    "version": "0.0.6",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.6.jar",
+    "date": "2022-08-22",
+    "sha512sum": "9E61B1178A0D3FFE17A930F3F7DA92009591F5D07BA465E858AB3132B529F2A59328A196A71B148517045D89D2B3BB2869A2C52A68D1589DE2FB115AD3A71234",
+    "version": "0.0.7",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-tools-0.0.7.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -200,10 +200,10 @@
   "description": "Make wine at the cooking guild",
   "id": "vitalwine-plugin",
   "releases": [{
-    "date": "2022-08-21",
-    "sha512sum": "BF29C4A918AB0596E5497E0A9D15879DDC21267A4496D8CB0223343446AA6E226A1B5C606E2539EC775B2E4C5D3C8FBDFCEA9BFA5CC363C4B2567E27B80BB0A9",
-    "version": "0.0.11",
-    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.11.jar",
+    "date": "2022-08-22",
+    "sha512sum": "AAF045098F287BDD8561680A0ACC06581939DD0E0CB39282C490F2AFA4FF2203F752F05EDD458BC86A5473FEDC6D5FE854A5FFD23271A5A48E6FF4AF0EC6118A",
+    "version": "0.0.12",
+    "url": "https://raw.githubusercontent.com/Vitalflea/vital-plugins-release/master/vital-wine-0.0.12.jar",
     "requires": "^1.0.0"
   }]
 }]
